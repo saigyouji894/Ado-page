@@ -1,0 +1,5640 @@
+{
+  "version": "2.6.0",
+  "generatedAt": "2026-09-09T08:55:26.013Z",
+  "sources": [
+    "https://www.universal-music.co.jp/ado/discography/",
+    "https://sp.universal-music.co.jp/ado/5thanniversary/",
+    "https://sp.universal-music.co.jp/ado/kyogen/",
+    "https://sp.universal-music.co.jp/ado/uta-no-uta/",
+    "https://sp.universal-music.co.jp/ado/utattemita/"
+  ],
+  "albums": [
+    {
+      "id": "kyogen",
+      "title": "狂言",
+      "year": "2022",
+      "cover": "assets/covers/album-kyogen.jpg",
+      "note": "首张原创专辑，14 首。",
+      "officialUrl": "https://sp.universal-music.co.jp/ado/kyogen/",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/kyogen/"
+      ],
+      "songIds": [
+        "song-レディメイド",
+        "song-踊",
+        "song-ドメスティックでバイオレンス",
+        "song-freedom",
+        "song-花火",
+        "song-会いたくて",
+        "song-ラッキー・ブルート",
+        "song-ギラギラ",
+        "song-阿修羅ちゃん",
+        "song-心という名の不可解",
+        "song-うっせぇわ",
+        "song-マザーランド",
+        "song-過学習",
+        "song-夜のピエロ"
+      ]
+    },
+    {
+      "id": "zanmu",
+      "title": "残夢",
+      "year": "2024",
+      "cover": "assets/covers/album-zanmu.jpg",
+      "note": "第二张原创专辑，16 首。",
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "songIds": [
+        "song-抜け空",
+        "song-行方知れず",
+        "song-dignity",
+        "song-ショコラカタブラ",
+        "song-クラクラ",
+        "song-アタシは問題作",
+        "song-リベリオン",
+        "song-オールナイトレディオ",
+        "song-向日葵",
+        "song-永遠のあくる日",
+        "song-mirror",
+        "song-ルル",
+        "song-唱",
+        "song-いばら",
+        "song-value",
+        "song-0"
+      ]
+    },
+    {
+      "id": "uta",
+      "title": "ウタの歌 ONE PIECE FILM RED",
+      "year": "2022",
+      "cover": "assets/covers/11.png",
+      "note": "电影《ONE PIECE FILM RED》相关歌曲。",
+      "officialUrl": "https://sp.universal-music.co.jp/ado/uta-no-uta/en/",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/uta-no-uta/en/"
+      ],
+      "songIds": [
+        "song-新時代",
+        "song-私は最強",
+        "song-逆光",
+        "song-ウタカタララバイ",
+        "song-tot-musica",
+        "song-世界のつづき",
+        "song-風のゆくえ"
+      ]
+    },
+    {
+      "id": "utattemita",
+      "title": "歌ってみた",
+      "year": "2023",
+      "cover": "assets/ado-album_utattemita.jpg",
+      "note": "正式发行翻唱专辑。",
+      "officialUrl": "https://sp.universal-music.co.jp/ado/utattemita/",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/utattemita/"
+      ],
+      "songIds": [
+        "song-ドライフラワー",
+        "song-飾りじゃないのよ涙は",
+        "song-愛して愛して愛して",
+        "song-罪と罰",
+        "song-可愛くてごめん",
+        "song-ヴィラン",
+        "song-神っぽいな",
+        "song-unravel",
+        "song-ブリキノダンス",
+        "song-夜明けと蛍"
+      ]
+    },
+    {
+      "id": "singles",
+      "title": "数字单曲",
+      "year": "2025—2026",
+      "cover": "assets/covers/digital-singles.svg",
+      "note": "独立数字发行；优先使用对应公开影像画面或发行封面，待补记录保留为中性档案图。",
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "songIds": [
+        "song-アイ・アイ・ア",
+        "song-エルフ",
+        "song-わたしに花束",
+        "song-ロックスター",
+        "song-風と私の物語",
+        "song-magic",
+        "song-おどるポンポコリン",
+        "song-エンゼルシーク",
+        "song-ビバリウム",
+        "song-綺羅",
+        "song-春に舞う",
+        "song-love-me-forever",
+        "song-好きでいて",
+        "song-モンストロ",
+        "song-cat-s-eye",
+        "song-ゲゲゲの鬼太郎",
+        "song-episode-x",
+        "song-踊-bon-odo-remix",
+        "song-夜のピエロ-teddyloid-remix",
+        "song-うっせぇわ-giga-remix",
+        "song-会いたくて-piano-strings-ver",
+        "song-桜日和とタイムマシン-with-初音ミク",
+        "song-初夏",
+        "song-stay-gold"
+      ]
+    },
+    {
+      "id": "best",
+      "title": "Adoのベストアドバム",
+      "year": "2025",
+      "cover": "assets/covers/digital-singles.svg",
+      "note": "官方五周年精选专辑；重复收录通过发行关系关联，不复制歌曲记录。",
+      "officialUrl": "https://sp.universal-music.co.jp/ado/adonobestadobum/",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/adonobestadobum/"
+      ],
+      "songIds": [
+        "song-レディメイド",
+        "song-踊",
+        "song-freedom",
+        "song-会いたくて",
+        "song-ラッキー・ブルート",
+        "song-ギラギラ",
+        "song-阿修羅ちゃん",
+        "song-心という名の不可解",
+        "song-うっせぇわ",
+        "song-マザーランド",
+        "song-過学習",
+        "song-夜のピエロ",
+        "song-行方知れず",
+        "song-dignity",
+        "song-ショコラカタブラ",
+        "song-クラクラ",
+        "song-アタシは問題作",
+        "song-リベリオン",
+        "song-オールナイトレディオ",
+        "song-向日葵",
+        "song-永遠のあくる日",
+        "song-mirror",
+        "song-ルル",
+        "song-唱",
+        "song-いばら",
+        "song-value",
+        "song-エルフ",
+        "song-わたしに花束",
+        "song-ロックスター",
+        "song-新時代",
+        "song-私は最強",
+        "song-逆光",
+        "song-ウタカタララバイ",
+        "song-tot-musica",
+        "song-愛して愛して愛して",
+        "song-unravel",
+        "song-episode-x",
+        "song-桜日和とタイムマシン-with-初音ミク",
+        "song-初夏",
+        "song-hello-signals"
+      ]
+    },
+    {
+      "id": "show-lp",
+      "title": "唱LP",
+      "year": "2024",
+      "cover": "assets/covers/digital-singles.svg",
+      "note": "《唱》特别数字发行，包含 Remix、Live 和变体。",
+      "officialUrl": "https://www.universal-music.co.jp/ado/products/uv1aa-00351/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/products/uv1aa-00351/"
+      ],
+      "songIds": [
+        "song-唱"
+      ]
+    }
+  ],
+  "songs": [
+    {
+      "id": "song-レディメイド",
+      "title": "レディメイド",
+      "aliases": [
+        "レディメイド",
+        "Readymade"
+      ],
+      "roma": "Readymade",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "J-pop",
+        "Rock"
+      ],
+      "releaseDate": "2020",
+      "decade": "2020s",
+      "album": "狂言",
+      "albumId": "kyogen",
+      "albumIds": [
+        "kyogen",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "狂言",
+          "date": "2020",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "すりぃ",
+      "composer": "すりぃ",
+      "arranger": "すりぃ",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/covers/07.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": "assets/music/レディメイド - Ado.mp3",
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "49c41640130eee402273002b26487e9bdfb43ae06fb35b08dda8a4eba013c1f7"
+    },
+    {
+      "id": "song-踊",
+      "title": "踊",
+      "aliases": [
+        "踊",
+        "Odo"
+      ],
+      "roma": "Odo",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "Dance",
+        "Electronic"
+      ],
+      "releaseDate": "2021",
+      "decade": "2020s",
+      "album": "狂言",
+      "albumId": "kyogen",
+      "albumIds": [
+        "kyogen",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "狂言",
+          "date": "2021",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "DECO*27",
+      "composer": "Giga / TeddyLoid",
+      "arranger": "Giga / TeddyLoid",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/covers/03.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": "assets/music/踊 - Ado.mp3",
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "6c6928725cae2b1c4549dd21d60eda8a9e099f6e32878ade6ac634f4ecd18f8b"
+    },
+    {
+      "id": "song-ドメスティックでバイオレンス",
+      "title": "ドメスティックでバイオレンス",
+      "aliases": [
+        "ドメスティックでバイオレンス",
+        "Domestic de Violence"
+      ],
+      "roma": "Domestic de Violence",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "Rock",
+        "Electronic"
+      ],
+      "releaseDate": "2021",
+      "decade": "2020s",
+      "album": "狂言",
+      "albumId": "kyogen",
+      "albumIds": [
+        "kyogen"
+      ],
+      "releaseEntries": [
+        {
+          "title": "狂言",
+          "date": "2021",
+          "kind": "original"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "待核实",
+      "composer": "Kanaria",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方页面未说明",
+      "mvUrl": "",
+      "cover": "assets/covers/04.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": "assets/music/ドメスティックでバイオレンス - Ado.mp3",
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "61fbbe604e84d7da0a21368c00d09ec547a2d4efd862250085075f36318a3609"
+    },
+    {
+      "id": "song-freedom",
+      "title": "FREEDOM",
+      "aliases": [
+        "FREEDOM",
+        "FREEDOM"
+      ],
+      "roma": "FREEDOM",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "Rock",
+        "J-pop"
+      ],
+      "releaseDate": "2021",
+      "decade": "2020s",
+      "album": "狂言",
+      "albumId": "kyogen",
+      "albumIds": [
+        "kyogen",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "狂言",
+          "date": "2021",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "待核实",
+      "composer": "jon-YAKITORY",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方页面未说明",
+      "mvUrl": "",
+      "cover": "assets/covers/album-kyogen.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": "assets/music/FREEDOM - Ado.mp3",
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "893113ac432860976fba57f225859e4c5748d3da481710bd457c7b6d258349ed"
+    },
+    {
+      "id": "song-花火",
+      "title": "花火",
+      "aliases": [
+        "花火",
+        "Hanabi"
+      ],
+      "roma": "Hanabi",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "J-pop",
+        "Ballad"
+      ],
+      "releaseDate": "2021",
+      "decade": "2020s",
+      "album": "狂言",
+      "albumId": "kyogen",
+      "albumIds": [
+        "kyogen"
+      ],
+      "releaseEntries": [
+        {
+          "title": "狂言",
+          "date": "2021",
+          "kind": "original"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "待核实",
+      "composer": "くじら",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/covers/album-kyogen.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "893113ac432860976fba57f225859e4c5748d3da481710bd457c7b6d258349ed"
+    },
+    {
+      "id": "song-会いたくて",
+      "title": "会いたくて",
+      "aliases": [
+        "会いたくて",
+        "Aitakute"
+      ],
+      "roma": "Aitakute",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "J-pop",
+        "Ballad"
+      ],
+      "releaseDate": "2021",
+      "decade": "2020s",
+      "album": "狂言",
+      "albumId": "kyogen",
+      "albumIds": [
+        "kyogen",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "狂言",
+          "date": "2021",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "みゆはん",
+      "composer": "みゆはん",
+      "arranger": "みきとP",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/covers/06.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "8aaeb4478cb5aa27f4c165bde87567e0fe5c557e3ecc101801d940a4d836a347"
+    },
+    {
+      "id": "song-ラッキー・ブルート",
+      "title": "ラッキー・ブルート",
+      "aliases": [
+        "ラッキー・ブルート",
+        "Lucky Brute"
+      ],
+      "roma": "Lucky Brute",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "J-pop",
+        "Rock"
+      ],
+      "releaseDate": "2021",
+      "decade": "2020s",
+      "album": "狂言",
+      "albumId": "kyogen",
+      "albumIds": [
+        "kyogen",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "狂言",
+          "date": "2021",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "待核实",
+      "composer": "柊キライ",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方页面未说明",
+      "mvUrl": "",
+      "cover": "assets/covers/album-kyogen.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "893113ac432860976fba57f225859e4c5748d3da481710bd457c7b6d258349ed"
+    },
+    {
+      "id": "song-ギラギラ",
+      "title": "ギラギラ",
+      "aliases": [
+        "ギラギラ",
+        "Gira Gira"
+      ],
+      "roma": "Gira Gira",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "J-pop",
+        "Rock"
+      ],
+      "releaseDate": "2021",
+      "decade": "2020s",
+      "album": "狂言",
+      "albumId": "kyogen",
+      "albumIds": [
+        "kyogen",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "狂言",
+          "date": "2021",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "待核实",
+      "composer": "てにをは",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/covers/02.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": "assets/music/ギラギラ - Ado.mp3",
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "8102356ce87803b94fdd396bc400054892c82b6fabbf95d61565ee54954b9588"
+    },
+    {
+      "id": "song-阿修羅ちゃん",
+      "title": "阿修羅ちゃん",
+      "aliases": [
+        "阿修羅ちゃん",
+        "Ashura-chan"
+      ],
+      "roma": "Ashura-chan",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "J-pop",
+        "Rock"
+      ],
+      "releaseDate": "2021",
+      "decade": "2020s",
+      "album": "狂言",
+      "albumId": "kyogen",
+      "albumIds": [
+        "kyogen",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "狂言",
+          "date": "2021",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "待核实",
+      "composer": "Neru",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/covers/album-kyogen.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "893113ac432860976fba57f225859e4c5748d3da481710bd457c7b6d258349ed"
+    },
+    {
+      "id": "song-心という名の不可解",
+      "title": "心という名の不可解",
+      "aliases": [
+        "心という名の不可解",
+        "Kokoro to iu na no Fukakai"
+      ],
+      "roma": "Kokoro to iu na no Fukakai",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "J-pop",
+        "Rock"
+      ],
+      "releaseDate": "2022",
+      "decade": "2020s",
+      "album": "狂言",
+      "albumId": "kyogen",
+      "albumIds": [
+        "kyogen",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "狂言",
+          "date": "2022",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "待核实",
+      "composer": "まふまふ",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/covers/album-kyogen.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "893113ac432860976fba57f225859e4c5748d3da481710bd457c7b6d258349ed"
+    },
+    {
+      "id": "song-うっせぇわ",
+      "title": "うっせぇわ",
+      "aliases": [
+        "うっせぇわ",
+        "Usseewa"
+      ],
+      "roma": "Usseewa",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "J-pop",
+        "Rock"
+      ],
+      "releaseDate": "2020",
+      "decade": "2020s",
+      "album": "狂言",
+      "albumId": "kyogen",
+      "albumIds": [
+        "kyogen",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "狂言",
+          "date": "2020",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "syudou",
+      "composer": "syudou",
+      "arranger": "syudou",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/covers/08.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": "assets/music/うっせぇわ - Ado.mp3",
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "ba1f58fcf4e78add2369aad79b5e3e980405a5e8b9a01b2785f09740e6e9144d"
+    },
+    {
+      "id": "song-マザーランド",
+      "title": "マザーランド",
+      "aliases": [
+        "マザーランド",
+        "Motherland"
+      ],
+      "roma": "Motherland",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "J-pop",
+        "Rock"
+      ],
+      "releaseDate": "2022",
+      "decade": "2020s",
+      "album": "狂言",
+      "albumId": "kyogen",
+      "albumIds": [
+        "kyogen",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "狂言",
+          "date": "2022",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "待核实",
+      "composer": "煮ル果実",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方页面未说明",
+      "mvUrl": "",
+      "cover": "assets/covers/album-kyogen.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": "assets/music/マザーランド - Ado.mp3",
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "893113ac432860976fba57f225859e4c5748d3da481710bd457c7b6d258349ed"
+    },
+    {
+      "id": "song-過学習",
+      "title": "過学習",
+      "aliases": [
+        "過学習",
+        "Kagakushu"
+      ],
+      "roma": "Kagakushu",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "J-pop",
+        "Electronic"
+      ],
+      "releaseDate": "2022",
+      "decade": "2020s",
+      "album": "狂言",
+      "albumId": "kyogen",
+      "albumIds": [
+        "kyogen",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "狂言",
+          "date": "2022",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "待核实",
+      "composer": "伊根",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方页面未说明",
+      "mvUrl": "",
+      "cover": "assets/covers/album-kyogen.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "893113ac432860976fba57f225859e4c5748d3da481710bd457c7b6d258349ed"
+    },
+    {
+      "id": "song-夜のピエロ",
+      "title": "夜のピエロ",
+      "aliases": [
+        "夜のピエロ",
+        "Yoru no Pierrot"
+      ],
+      "roma": "Yoru no Pierrot",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "J-pop",
+        "Ballad"
+      ],
+      "releaseDate": "2021",
+      "decade": "2020s",
+      "album": "狂言",
+      "albumId": "kyogen",
+      "albumIds": [
+        "kyogen",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "狂言",
+          "date": "2021",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "待核实",
+      "composer": "biz",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/covers/album-kyogen.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "893113ac432860976fba57f225859e4c5748d3da481710bd457c7b6d258349ed"
+    },
+    {
+      "id": "song-抜け空",
+      "title": "抜け空",
+      "aliases": [
+        "抜け空",
+        "Nukegara"
+      ],
+      "roma": "Nukegara",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "J-pop",
+        "Electronic"
+      ],
+      "releaseDate": "2024",
+      "decade": "2020s",
+      "album": "残夢",
+      "albumId": "zanmu",
+      "albumIds": [
+        "zanmu"
+      ],
+      "releaseEntries": [
+        {
+          "title": "残夢",
+          "date": "2024",
+          "kind": "original"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "牛肉",
+      "composer": "Yunosuke",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方页面未说明",
+      "mvUrl": "",
+      "cover": "assets/covers/album-zanmu.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "8f305d678bc646ca1c9d004bef46c7e9dc42d76c5edcc7092d1cb271fcfeb089"
+    },
+    {
+      "id": "song-行方知れず",
+      "title": "行方知れず",
+      "aliases": [
+        "行方知れず",
+        "Missing"
+      ],
+      "roma": "Missing",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "J-pop",
+        "Rock"
+      ],
+      "releaseDate": "2022",
+      "decade": "2020s",
+      "album": "残夢",
+      "albumId": "zanmu",
+      "albumIds": [
+        "zanmu",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "残夢",
+          "date": "2022",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "椎名林檎",
+      "composer": "椎名林檎",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/covers/album-zanmu.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "8f305d678bc646ca1c9d004bef46c7e9dc42d76c5edcc7092d1cb271fcfeb089"
+    },
+    {
+      "id": "song-dignity",
+      "title": "DIGNITY",
+      "aliases": [
+        "DIGNITY",
+        "DIGNITY"
+      ],
+      "roma": "DIGNITY",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "Ballad",
+        "J-pop"
+      ],
+      "releaseDate": "2023",
+      "decade": "2020s",
+      "album": "残夢",
+      "albumId": "zanmu",
+      "albumIds": [
+        "zanmu",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "残夢",
+          "date": "2023",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "B’z",
+      "composer": "B’z",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/covers/album-zanmu.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "8f305d678bc646ca1c9d004bef46c7e9dc42d76c5edcc7092d1cb271fcfeb089"
+    },
+    {
+      "id": "song-ショコラカタブラ",
+      "title": "ショコラカタブラ",
+      "aliases": [
+        "ショコラカタブラ",
+        "Chocolat Cadabra"
+      ],
+      "roma": "Chocolat Cadabra",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "J-pop",
+        "Dance"
+      ],
+      "releaseDate": "2024",
+      "decade": "2020s",
+      "album": "残夢",
+      "albumId": "zanmu",
+      "albumIds": [
+        "zanmu",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "残夢",
+          "date": "2024",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "かめりあ",
+      "composer": "TAKU INOUE",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/covers/album-zanmu.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "8f305d678bc646ca1c9d004bef46c7e9dc42d76c5edcc7092d1cb271fcfeb089"
+    },
+    {
+      "id": "song-クラクラ",
+      "title": "クラクラ",
+      "aliases": [
+        "クラクラ",
+        "Kura Kura"
+      ],
+      "roma": "Kura Kura",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "J-pop",
+        "Dance"
+      ],
+      "releaseDate": "2023",
+      "decade": "2020s",
+      "album": "残夢",
+      "albumId": "zanmu",
+      "albumIds": [
+        "zanmu",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "残夢",
+          "date": "2023",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "meiyo",
+      "composer": "meiyo",
+      "arranger": "菅野よう子 × SEATBELTS",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "https://www.youtube.com/watch?v=wQramtn-x1s",
+      "cover": "assets/covers/mv-frames/kurakura.jpg",
+      "coverKind": "mv-frame",
+      "coverSource": "official-youtube",
+      "coverFrame": "thumbnail",
+      "coverSourceUrl": "https://www.youtube.com/watch?v=wQramtn-x1s",
+      "coverMatch": "Ado 官方《クラクラ》公开影像画面",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/",
+        "https://www.youtube.com/watch?v=wQramtn-x1s"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "4d56e211dbbb1240600f677a333dd31e68111b2c7510f96c716d5fb4d1440ca4"
+    },
+    {
+      "id": "song-アタシは問題作",
+      "title": "アタシは問題作",
+      "aliases": [
+        "アタシは問題作",
+        "Atashi wa Mondaisaku"
+      ],
+      "roma": "Atashi wa Mondaisaku",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "J-pop",
+        "Rock"
+      ],
+      "releaseDate": "2023",
+      "decade": "2020s",
+      "album": "残夢",
+      "albumId": "zanmu",
+      "albumIds": [
+        "zanmu",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "残夢",
+          "date": "2023",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "ピノキオピー",
+      "composer": "ピノキオピー",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "https://www.youtube.com/watch?v=lZGo8jcEW2M",
+      "cover": "assets/covers/mv-frames/atashi-wa-mondai.jpg",
+      "coverKind": "mv-frame",
+      "coverSource": "official-youtube",
+      "coverFrame": "thumbnail",
+      "coverSourceUrl": "https://www.youtube.com/watch?v=lZGo8jcEW2M",
+      "coverMatch": "Ado 官方《アタシは問題作》公开影像画面",
+      "audio": "assets/music/アタシは問題作 - Ado.mp3",
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/",
+        "https://www.youtube.com/watch?v=lZGo8jcEW2M"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "151ee30ccd2139e7a5b4052151f87120b8e1436535b794d6d8b8f2da2eb4798c"
+    },
+    {
+      "id": "song-リベリオン",
+      "title": "リベリオン",
+      "aliases": [
+        "リベリオン",
+        "Rebellion"
+      ],
+      "roma": "Rebellion",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "Rock",
+        "J-pop"
+      ],
+      "releaseDate": "2022",
+      "decade": "2020s",
+      "album": "残夢",
+      "albumId": "zanmu",
+      "albumIds": [
+        "zanmu",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "残夢",
+          "date": "2022",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "Chinozo",
+      "composer": "Chinozo",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/covers/album-zanmu.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": "assets/music/リベリオン - Ado.mp3",
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "8f305d678bc646ca1c9d004bef46c7e9dc42d76c5edcc7092d1cb271fcfeb089"
+    },
+    {
+      "id": "song-オールナイトレディオ",
+      "title": "オールナイトレディオ",
+      "aliases": [
+        "オールナイトレディオ",
+        "All Night Radio"
+      ],
+      "roma": "All Night Radio",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "J-pop",
+        "Electronic"
+      ],
+      "releaseDate": "2023",
+      "decade": "2020s",
+      "album": "残夢",
+      "albumId": "zanmu",
+      "albumIds": [
+        "zanmu",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "残夢",
+          "date": "2023",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "Mitchie M",
+      "composer": "Mitchie M",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/covers/album-zanmu.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "8f305d678bc646ca1c9d004bef46c7e9dc42d76c5edcc7092d1cb271fcfeb089"
+    },
+    {
+      "id": "song-向日葵",
+      "title": "向日葵",
+      "aliases": [
+        "向日葵",
+        "Himawari"
+      ],
+      "roma": "Himawari",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "J-pop",
+        "Ballad"
+      ],
+      "releaseDate": "2023",
+      "decade": "2020s",
+      "album": "残夢",
+      "albumId": "zanmu",
+      "albumIds": [
+        "zanmu",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "残夢",
+          "date": "2023",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "みゆはん",
+      "composer": "みゆはん",
+      "arranger": "40mP",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/covers/album-zanmu.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "8f305d678bc646ca1c9d004bef46c7e9dc42d76c5edcc7092d1cb271fcfeb089"
+    },
+    {
+      "id": "song-永遠のあくる日",
+      "title": "永遠のあくる日",
+      "aliases": [
+        "永遠のあくる日",
+        "Eien no Akuru Hi"
+      ],
+      "roma": "Eien no Akuru Hi",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "Ballad",
+        "J-pop"
+      ],
+      "releaseDate": "2022",
+      "decade": "2020s",
+      "album": "残夢",
+      "albumId": "zanmu",
+      "albumIds": [
+        "zanmu",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "残夢",
+          "date": "2022",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "てにをは",
+      "composer": "てにをは",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/covers/album-zanmu.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "8f305d678bc646ca1c9d004bef46c7e9dc42d76c5edcc7092d1cb271fcfeb089"
+    },
+    {
+      "id": "song-mirror",
+      "title": "MIRROR",
+      "aliases": [
+        "MIRROR",
+        "MIRROR"
+      ],
+      "roma": "MIRROR",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "J-pop",
+        "Electronic"
+      ],
+      "releaseDate": "2024",
+      "decade": "2020s",
+      "album": "残夢",
+      "albumId": "zanmu",
+      "albumIds": [
+        "zanmu",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "残夢",
+          "date": "2024",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "なとり",
+      "composer": "なとり",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方页面未说明",
+      "mvUrl": "",
+      "cover": "assets/covers/album-zanmu.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "8f305d678bc646ca1c9d004bef46c7e9dc42d76c5edcc7092d1cb271fcfeb089"
+    },
+    {
+      "id": "song-ルル",
+      "title": "ルル",
+      "aliases": [
+        "ルル",
+        "RuLe"
+      ],
+      "roma": "RuLe",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "J-pop",
+        "Rock"
+      ],
+      "releaseDate": "2024",
+      "decade": "2020s",
+      "album": "残夢",
+      "albumId": "zanmu",
+      "albumIds": [
+        "zanmu",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "残夢",
+          "date": "2024",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "MARETU",
+      "composer": "MARETU",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/covers/album-zanmu.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": "assets/music/ルル - Ado.mp3",
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "8f305d678bc646ca1c9d004bef46c7e9dc42d76c5edcc7092d1cb271fcfeb089"
+    },
+    {
+      "id": "song-唱",
+      "title": "唱",
+      "aliases": [
+        "唱",
+        "Show"
+      ],
+      "roma": "Show",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "Dance",
+        "Electronic"
+      ],
+      "releaseDate": "2023",
+      "decade": "2020s",
+      "album": "残夢",
+      "albumId": "zanmu",
+      "albumIds": [
+        "zanmu",
+        "show-lp",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "残夢",
+          "date": "2023",
+          "kind": "original"
+        },
+        {
+          "title": "唱LP",
+          "date": "2024-09-06",
+          "kind": "special-release"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "TOPHAMHAT-KYO",
+      "composer": "Giga / TeddyLoid",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/covers/album-zanmu.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "releaseVariants": [
+        {
+          "id": "song-唱-teddyloid-remix",
+          "title": "唱 (TeddyLoid Remix)",
+          "version": "TeddyLoid Remix",
+          "roma": "Show TeddyLoid Remix",
+          "releaseDate": "2024-09-06",
+          "releaseClass": "special-release",
+          "type": "special-release",
+          "genres": [
+            "Dance",
+            "Electronic"
+          ],
+          "composer": "官方页面未说明",
+          "originalArtist": "Ado",
+          "officialUrl": "https://www.universal-music.co.jp/ado/products/uv1aa-00351/",
+          "notes": "正式发行记录；创作者字段仅在官方资料可核对时填写。",
+          "cover": "assets/covers/digital-singles.svg",
+          "coverKind": "generic-fallback",
+          "sourceStatus": "Universal Music Japan 官方发行页"
+        },
+        {
+          "id": "song-唱-jax-jones-remix",
+          "title": "唱 (Jax Jones Remix)",
+          "version": "Jax Jones Remix",
+          "roma": "Show Jax Jones Remix",
+          "releaseDate": "2024-09-06",
+          "releaseClass": "special-release",
+          "type": "special-release",
+          "genres": [
+            "Dance",
+            "Electronic"
+          ],
+          "composer": "官方页面未说明",
+          "originalArtist": "Ado",
+          "officialUrl": "https://www.universal-music.co.jp/ado/products/uv1aa-00351/",
+          "notes": "正式发行记录；创作者字段仅在官方资料可核对时填写。",
+          "cover": "assets/covers/digital-singles.svg",
+          "coverKind": "generic-fallback",
+          "sourceStatus": "Universal Music Japan 官方发行页"
+        },
+        {
+          "id": "song-唱-live-the-first-world-tour-wish-los-angeles",
+          "title": "唱 (Live / THE FIRST WORLD TOUR “Wish” Los Angeles)",
+          "version": "Live / THE FIRST WORLD TOUR “Wish” Los Angeles",
+          "roma": "Show Live Wish Los Angeles",
+          "releaseDate": "2024-09-06",
+          "releaseClass": "special-release",
+          "type": "live-version",
+          "genres": [
+            "Live"
+          ],
+          "composer": "官方页面未说明",
+          "originalArtist": "Ado",
+          "officialUrl": "https://www.universal-music.co.jp/ado/products/uv1aa-00351/",
+          "notes": "正式发行记录；创作者字段仅在官方资料可核对时填写。",
+          "cover": "assets/covers/digital-singles.svg",
+          "coverKind": "generic-fallback",
+          "sourceStatus": "Universal Music Japan 官方发行页"
+        },
+        {
+          "id": "song-唱-sped-up",
+          "title": "唱 (Sped Up)",
+          "version": "Sped Up",
+          "roma": "Show Sped Up",
+          "releaseDate": "2024-09-06",
+          "releaseClass": "special-release",
+          "type": "special-release",
+          "genres": [
+            "Dance",
+            "Electronic"
+          ],
+          "composer": "官方页面未说明",
+          "originalArtist": "Ado",
+          "officialUrl": "https://www.universal-music.co.jp/ado/products/uv1aa-00351/",
+          "notes": "正式发行记录；创作者字段仅在官方资料可核对时填写。",
+          "cover": "assets/covers/digital-singles.svg",
+          "coverKind": "generic-fallback",
+          "sourceStatus": "Universal Music Japan 官方发行页"
+        },
+        {
+          "id": "song-唱-slowed-down",
+          "title": "唱 (Slowed Down)",
+          "version": "Slowed Down",
+          "roma": "Show Slowed Down",
+          "releaseDate": "2024-09-06",
+          "releaseClass": "special-release",
+          "type": "special-release",
+          "genres": [
+            "Dance",
+            "Electronic"
+          ],
+          "composer": "官方页面未说明",
+          "originalArtist": "Ado",
+          "officialUrl": "https://www.universal-music.co.jp/ado/products/uv1aa-00351/",
+          "notes": "正式发行记录；创作者字段仅在官方资料可核对时填写。",
+          "cover": "assets/covers/digital-singles.svg",
+          "coverKind": "generic-fallback",
+          "sourceStatus": "Universal Music Japan 官方发行页"
+        },
+        {
+          "id": "song-唱-stripped",
+          "title": "唱 (Stripped)",
+          "version": "Stripped",
+          "roma": "Show Stripped",
+          "releaseDate": "2024-09-06",
+          "releaseClass": "special-release",
+          "type": "special-release",
+          "genres": [
+            "Dance",
+            "Electronic"
+          ],
+          "composer": "官方页面未说明",
+          "originalArtist": "Ado",
+          "officialUrl": "https://www.universal-music.co.jp/ado/products/uv1aa-00351/",
+          "notes": "正式发行记录；创作者字段仅在官方资料可核对时填写。",
+          "cover": "assets/covers/digital-singles.svg",
+          "coverKind": "generic-fallback",
+          "sourceStatus": "Universal Music Japan 官方发行页"
+        },
+        {
+          "id": "song-唱-instrumental",
+          "title": "唱 (Instrumental)",
+          "version": "Instrumental",
+          "roma": "Show Instrumental",
+          "releaseDate": "2024-09-06",
+          "releaseClass": "special-release",
+          "type": "special-release",
+          "genres": [
+            "Dance",
+            "Electronic"
+          ],
+          "composer": "官方页面未说明",
+          "originalArtist": "Ado",
+          "officialUrl": "https://www.universal-music.co.jp/ado/products/uv1aa-00351/",
+          "notes": "正式发行记录；创作者字段仅在官方资料可核对时填写。",
+          "cover": "assets/covers/digital-singles.svg",
+          "coverKind": "generic-fallback",
+          "sourceStatus": "Universal Music Japan 官方发行页"
+        },
+        {
+          "id": "song-唱-a-cappella",
+          "title": "唱 (A Cappella)",
+          "version": "A Cappella",
+          "roma": "Show A Cappella",
+          "releaseDate": "2024-09-06",
+          "releaseClass": "special-release",
+          "type": "special-release",
+          "genres": [
+            "Dance",
+            "Electronic"
+          ],
+          "composer": "官方页面未说明",
+          "originalArtist": "Ado",
+          "officialUrl": "https://www.universal-music.co.jp/ado/products/uv1aa-00351/",
+          "notes": "正式发行记录；创作者字段仅在官方资料可核对时填写。",
+          "cover": "assets/covers/digital-singles.svg",
+          "coverKind": "generic-fallback",
+          "sourceStatus": "Universal Music Japan 官方发行页"
+        },
+        {
+          "id": "song-唱-jax-jones-remix-extended-mix",
+          "title": "唱 (Jax Jones Remix / Extended Mix)",
+          "version": "Jax Jones Remix / Extended Mix",
+          "roma": "Show Jax Jones Extended Mix",
+          "releaseDate": "2024-09-06",
+          "releaseClass": "special-release",
+          "type": "special-release",
+          "genres": [
+            "Dance",
+            "Electronic"
+          ],
+          "composer": "官方页面未说明",
+          "originalArtist": "Ado",
+          "officialUrl": "https://www.universal-music.co.jp/ado/products/uv1aa-00351/",
+          "notes": "正式发行记录；创作者字段仅在官方资料可核对时填写。",
+          "cover": "assets/covers/digital-singles.svg",
+          "coverKind": "generic-fallback",
+          "sourceStatus": "Universal Music Japan 官方发行页"
+        }
+      ],
+      "coverHash": "8f305d678bc646ca1c9d004bef46c7e9dc42d76c5edcc7092d1cb271fcfeb089"
+    },
+    {
+      "id": "song-いばら",
+      "title": "いばら",
+      "aliases": [
+        "いばら",
+        "Ibara"
+      ],
+      "roma": "Ibara",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "J-pop",
+        "Rock"
+      ],
+      "releaseDate": "2023",
+      "decade": "2020s",
+      "album": "残夢",
+      "albumId": "zanmu",
+      "albumIds": [
+        "zanmu",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "残夢",
+          "date": "2023",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "Vaundy",
+      "composer": "Vaundy",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/covers/album-zanmu.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "8f305d678bc646ca1c9d004bef46c7e9dc42d76c5edcc7092d1cb271fcfeb089"
+    },
+    {
+      "id": "song-value",
+      "title": "Value",
+      "aliases": [
+        "Value",
+        "Value"
+      ],
+      "roma": "Value",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "J-pop",
+        "Electronic"
+      ],
+      "releaseDate": "2023",
+      "decade": "2020s",
+      "album": "残夢",
+      "albumId": "zanmu",
+      "albumIds": [
+        "zanmu",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "残夢",
+          "date": "2023",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "Police Piccadilly",
+      "composer": "Police Piccadilly",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/covers/album-zanmu.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "8f305d678bc646ca1c9d004bef46c7e9dc42d76c5edcc7092d1cb271fcfeb089"
+    },
+    {
+      "id": "song-0",
+      "title": "0",
+      "aliases": [
+        "0",
+        "Zero"
+      ],
+      "roma": "Zero",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "J-pop",
+        "Experimental"
+      ],
+      "releaseDate": "2024",
+      "decade": "2020s",
+      "album": "残夢",
+      "albumId": "zanmu",
+      "albumIds": [
+        "zanmu"
+      ],
+      "releaseEntries": [
+        {
+          "title": "残夢",
+          "date": "2024",
+          "kind": "original"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "椎乃味醂",
+      "composer": "椎乃味醂",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/covers/album-zanmu.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "8f305d678bc646ca1c9d004bef46c7e9dc42d76c5edcc7092d1cb271fcfeb089"
+    },
+    {
+      "id": "song-アイ・アイ・ア",
+      "title": "アイ・アイ・ア",
+      "aliases": [
+        "アイ・アイ・ア",
+        "AiAiA"
+      ],
+      "roma": "AiAiA",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "digital-single",
+      "genres": [
+        "J-pop",
+        "Experimental"
+      ],
+      "releaseDate": "2026",
+      "decade": "2020s",
+      "album": "数字单曲",
+      "albumId": "singles",
+      "albumIds": [
+        "singles"
+      ],
+      "releaseEntries": [
+        {
+          "title": "数字单曲",
+          "date": "2026",
+          "kind": "original"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "きくお",
+      "composer": "きくお",
+      "arranger": "きくお",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "https://www.youtube.com/watch?v=_8CNByAq1n4",
+      "cover": "assets/covers/mv-frames/aiaia.jpg",
+      "coverKind": "mv-frame",
+      "coverSource": "official-youtube",
+      "coverFrame": "thumbnail",
+      "coverSourceUrl": "https://www.youtube.com/watch?v=_8CNByAq1n4",
+      "coverMatch": "Ado 官方《アイ・アイ・ア》公开影像画面",
+      "audio": "assets/music/アイ・アイ・ア - Ado.mp3",
+      "officialUrl": "https://www.universal-music.co.jp/ado/products/uv1as-02199/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/products/uv1as-02199/",
+        "https://www.youtube.com/watch?v=_8CNByAq1n4"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "2026.03.16 数字单曲；公开影像已核对。",
+      "coverHash": "cc560da26ccc2ddcaeccf6125ba51c701e74a71ec21a0eee5f6c85f02bab9e3a"
+    },
+    {
+      "id": "song-エルフ",
+      "title": "エルフ",
+      "aliases": [
+        "エルフ",
+        "Elf"
+      ],
+      "roma": "Elf",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "digital-single",
+      "genres": [
+        "J-pop",
+        "Ballad"
+      ],
+      "releaseDate": "2025",
+      "decade": "2020s",
+      "album": "数字单曲",
+      "albumId": "singles",
+      "albumIds": [
+        "singles",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "デジタルシングル",
+          "date": "2025",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "待核实",
+      "composer": "待核实",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方 Lyric Video 已核对；MV 状态待核实",
+      "mvUrl": "",
+      "cover": "assets/covers/mv-frames/elf.jpg",
+      "coverKind": "mv-frame",
+      "coverSource": "official-youtube",
+      "coverFrame": "thumbnail",
+      "coverSourceUrl": "https://www.youtube.com/watch?v=gONgtEf-Pyg",
+      "coverMatch": "Ado 官方《エルフ》Lyric Video 画面",
+      "audio": null,
+      "officialUrl": "https://www.youtube.com/watch?v=gONgtEf-Pyg",
+      "sourceUrls": [
+        "https://www.youtube.com/watch?v=gONgtEf-Pyg"
+      ],
+      "sourceStatus": "官方发行页与公开影像已核对",
+      "notes": "2025 年数字发行；列表封面取自对应 Lyric Video，不能据此推断为正式 MV。",
+      "coverHash": "a811dd3b4a8a1c0dff1d153a2c778da2a2fab4b4778c7c4b073fe1b954efb404"
+    },
+    {
+      "id": "song-わたしに花束",
+      "title": "わたしに花束",
+      "aliases": [
+        "わたしに花束",
+        "Watashi ni Hanataba"
+      ],
+      "roma": "Watashi ni Hanataba",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "digital-single",
+      "genres": [
+        "J-pop",
+        "Commercial"
+      ],
+      "releaseDate": "2025",
+      "decade": "2020s",
+      "album": "数字单曲",
+      "albumId": "singles",
+      "albumIds": [
+        "singles",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "デジタルシングル",
+          "date": "2025",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "待核实",
+      "composer": "待核实",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/collabs/georgia-hanataba.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "官方发行页已列出",
+      "notes": "与 Georgia 合作企划相关；使用对应合作视觉。",
+      "coverHash": "3bda6c1100f213f30909bc333e49951c68cbc3ac6c08e76e49d8f9ec0b20fd37"
+    },
+    {
+      "id": "song-ロックスター",
+      "title": "ロックスター",
+      "aliases": [
+        "ロックスター",
+        "Rockstar"
+      ],
+      "roma": "Rockstar",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "digital-single",
+      "genres": [
+        "Rock",
+        "Commercial"
+      ],
+      "releaseDate": "2025",
+      "decade": "2020s",
+      "album": "数字单曲",
+      "albumId": "singles",
+      "albumIds": [
+        "singles",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "デジタルシングル",
+          "date": "2025",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "待核实",
+      "composer": "宮本浩次",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/collabs/marubeni-rockstar.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "官方新闻已核对",
+      "notes": "丸紅企业广告合作曲；使用对应广告主视觉。",
+      "coverHash": "a9f1396a0c4267caadf53e8b3fa4f158d314ad8110b735e7fc0c94d734823e52"
+    },
+    {
+      "id": "song-風と私の物語",
+      "title": "風と私の物語",
+      "aliases": [
+        "風と私の物語",
+        "Kaze to Watashi no Monogatari"
+      ],
+      "roma": "Kaze to Watashi no Monogatari",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "theme-song",
+      "genres": [
+        "Ballad",
+        "Soundtrack"
+      ],
+      "releaseDate": "2025",
+      "decade": "2020s",
+      "album": "数字单曲",
+      "albumId": "singles",
+      "albumIds": [
+        "singles"
+      ],
+      "releaseEntries": [
+        {
+          "title": "电影主题曲",
+          "date": "2025",
+          "kind": "original"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "待核实",
+      "composer": "宮本浩次",
+      "arranger": "まふまふ",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开影像",
+      "mvUrl": "https://www.youtube.com/watch?v=oAuKa5NOzWE",
+      "cover": "assets/covers/mv-frames/kaze-to-watashi.jpg",
+      "coverKind": "mv-frame",
+      "coverSource": "official-youtube",
+      "coverFrame": "thumbnail",
+      "coverSourceUrl": "https://www.youtube.com/watch?v=oAuKa5NOzWE",
+      "coverMatch": "Ado 官方《風と私の物語》公开影像画面",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/",
+        "https://www.youtube.com/watch?v=oAuKa5NOzWE"
+      ],
+      "sourceStatus": "官方新闻与公开影像已核对",
+      "notes": "电影《沈黙の艦隊 北極海大海戦》主题曲；列表封面取自对应公开影像。",
+      "coverHash": "00a6aa52e63bf173ae015becb0755ab8aa9ea87eef00346bb00784aab04fb8e3"
+    },
+    {
+      "id": "song-magic",
+      "title": "MAGIC",
+      "aliases": [
+        "MAGIC",
+        "MAGIC"
+      ],
+      "roma": "MAGIC",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "digital-single",
+      "genres": [
+        "J-pop",
+        "Electronic"
+      ],
+      "releaseDate": "2025",
+      "decade": "2020s",
+      "album": "数字单曲",
+      "albumId": "singles",
+      "albumIds": [
+        "singles"
+      ],
+      "releaseEntries": [
+        {
+          "title": "デジタルシングル",
+          "date": "2025",
+          "kind": "original"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "待核实",
+      "composer": "待核实",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开影像",
+      "mvUrl": "https://www.youtube.com/watch?v=l0WArCNh6G0",
+      "cover": "assets/covers/mv-frames/magic.jpg",
+      "coverKind": "mv-frame",
+      "coverSource": "official-youtube",
+      "coverFrame": "thumbnail",
+      "coverSourceUrl": "https://www.youtube.com/watch?v=l0WArCNh6G0",
+      "coverMatch": "Ado 官方《MAGIC》公开影像画面",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/",
+        "https://www.youtube.com/watch?v=l0WArCNh6G0"
+      ],
+      "sourceStatus": "官方发行页与公开影像已核对",
+      "notes": "2025 年数字发行；使用对应公开影像画面。",
+      "coverHash": "1e655375d5a970cbb5a7cdee3897ddb566831bd00044aacfc259b8eb97ef72e7"
+    },
+    {
+      "id": "song-おどるポンポコリン",
+      "title": "おどるポンポコリン",
+      "aliases": [
+        "おどるポンポコリン",
+        "Odoru Ponpokorin"
+      ],
+      "roma": "Odoru Ponpokorin",
+      "chinese": "",
+      "type": "cover",
+      "releaseClass": "cover-release",
+      "genres": [
+        "J-pop",
+        "Cover"
+      ],
+      "releaseDate": "2025",
+      "decade": "2020s",
+      "album": "数字单曲",
+      "albumId": "singles",
+      "albumIds": [
+        "singles"
+      ],
+      "releaseEntries": [
+        {
+          "title": "デジタルシングル",
+          "date": "2025",
+          "kind": "cover"
+        }
+      ],
+      "originalArtist": "さくらももこ／織田哲郎（原作词曲）",
+      "lyricist": "さくらももこ",
+      "composer": "織田哲郎",
+      "arranger": "ヒャダイン",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开影像",
+      "mvUrl": "https://www.youtube.com/watch?v=TZYqDl19qLQ",
+      "cover": "assets/covers/mv-frames/odoru-ponpokorin.jpg",
+      "coverKind": "mv-frame",
+      "coverSource": "official-youtube",
+      "coverFrame": "thumbnail",
+      "coverSourceUrl": "https://www.youtube.com/watch?v=TZYqDl19qLQ",
+      "coverMatch": "Ado 官方《おどるポンポコリン》公开影像画面",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/",
+        "https://www.youtube.com/watch?v=TZYqDl19qLQ"
+      ],
+      "sourceStatus": "官方发行页与公开影像已核对",
+      "notes": "正式发行翻唱；列表封面取自 Ado 官方公开影像。",
+      "coverHash": "a8631b2a3153447bfdb5cd89b51f6a87d2639c33fc9349256dabb3226fff1806"
+    },
+    {
+      "id": "song-エンゼルシーク",
+      "title": "エンゼルシーク",
+      "aliases": [
+        "エンゼルシーク",
+        "Angel Seek"
+      ],
+      "roma": "Angel Seek",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "digital-single",
+      "genres": [
+        "J-pop",
+        "Electronic"
+      ],
+      "releaseDate": "2026",
+      "decade": "2020s",
+      "album": "数字单曲",
+      "albumId": "singles",
+      "albumIds": [
+        "singles"
+      ],
+      "releaseEntries": [
+        {
+          "title": "デジタルシングル",
+          "date": "2026",
+          "kind": "original"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "待核实",
+      "composer": "待核实",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开影像",
+      "mvUrl": "https://www.youtube.com/watch?v=aGSmxr-dUq0",
+      "cover": "assets/covers/mv-frames/angel-seek.jpg",
+      "coverKind": "mv-frame",
+      "coverSource": "official-youtube",
+      "coverFrame": "thumbnail",
+      "coverSourceUrl": "https://www.youtube.com/watch?v=aGSmxr-dUq0",
+      "coverMatch": "Ado 官方《エンゼルシーク》公开影像画面",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/",
+        "https://www.youtube.com/watch?v=aGSmxr-dUq0"
+      ],
+      "sourceStatus": "官方发行页与公开影像已核对",
+      "notes": "2026 年数字发行；使用对应公开影像画面。",
+      "coverHash": "d7d62cc3055c66806484d3d7fdcc72cb12f6b758638eb97a13d4692a09f9485c"
+    },
+    {
+      "id": "song-ビバリウム",
+      "title": "ビバリウム",
+      "aliases": [
+        "ビバリウム",
+        "Vivarium"
+      ],
+      "roma": "Vivarium",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "digital-single",
+      "genres": [
+        "J-pop",
+        "Electronic"
+      ],
+      "releaseDate": "2026",
+      "decade": "2020s",
+      "album": "数字单曲",
+      "albumId": "singles",
+      "albumIds": [
+        "singles"
+      ],
+      "releaseEntries": [
+        {
+          "title": "デジタルシングル",
+          "date": "2026",
+          "kind": "original"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "待核实",
+      "composer": "待核实",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开影像",
+      "mvUrl": "https://www.youtube.com/watch?v=YvYii6dluM8",
+      "cover": "assets/covers/mv-frames/vivarium.jpg",
+      "coverKind": "mv-frame",
+      "coverSource": "official-youtube",
+      "coverFrame": "thumbnail",
+      "coverSourceUrl": "https://www.youtube.com/watch?v=YvYii6dluM8",
+      "coverMatch": "Ado 官方《ビバリウム》公开影像画面",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/",
+        "https://www.youtube.com/watch?v=YvYii6dluM8"
+      ],
+      "sourceStatus": "官方发行页与公开影像已核对",
+      "notes": "2026 年数字发行；使用对应公开影像画面。",
+      "coverHash": "cbc58966e28acfd8b8c99f121a4e064bbc6fe777fb8235a33a1fcab23ab69fd3"
+    },
+    {
+      "id": "song-綺羅",
+      "title": "綺羅",
+      "aliases": [
+        "綺羅",
+        "Kira"
+      ],
+      "roma": "Kira",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "digital-single",
+      "genres": [
+        "J-pop",
+        "Commercial"
+      ],
+      "releaseDate": "2026",
+      "decade": "2020s",
+      "album": "数字单曲",
+      "albumId": "singles",
+      "albumIds": [
+        "singles"
+      ],
+      "releaseEntries": [
+        {
+          "title": "デジタルシングル",
+          "date": "2026",
+          "kind": "original"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "待核实",
+      "composer": "待核实",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开影像",
+      "mvUrl": "https://www.youtube.com/watch?v=qpcz3-iDUP8",
+      "cover": "assets/covers/mv-frames/kira.jpg",
+      "coverKind": "mv-frame",
+      "coverSource": "official-youtube",
+      "coverFrame": "thumbnail",
+      "coverSourceUrl": "https://www.youtube.com/watch?v=qpcz3-iDUP8",
+      "coverMatch": "Ado 官方《綺羅》合作公开影像画面",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/",
+        "https://www.youtube.com/watch?v=qpcz3-iDUP8"
+      ],
+      "sourceStatus": "官方发行页与公开影像已核对",
+      "notes": "与 adidas × 日本足球代表队合作企划相关；列表封面取自对应公开影像。",
+      "coverHash": "50810d2b605ea94bf74d194bafad695d1d8abd56274e68a2210a37881c9016e8"
+    },
+    {
+      "id": "song-春に舞う",
+      "title": "春に舞う",
+      "aliases": [
+        "春に舞う",
+        "Haru ni Mau"
+      ],
+      "roma": "Haru ni Mau",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "digital-single",
+      "genres": [
+        "J-pop",
+        "Ballad"
+      ],
+      "releaseDate": "2026",
+      "decade": "2020s",
+      "album": "数字单曲",
+      "albumId": "singles",
+      "albumIds": [
+        "singles"
+      ],
+      "releaseEntries": [
+        {
+          "title": "デジタルシングル",
+          "date": "2026",
+          "kind": "original"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "待核实",
+      "composer": "待核实",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开影像",
+      "mvUrl": "https://www.youtube.com/watch?v=xIYfDbkq-SM",
+      "cover": "assets/covers/mv-frames/haru-ni-mau.jpg",
+      "coverKind": "mv-frame",
+      "coverSource": "official-youtube",
+      "coverFrame": "thumbnail",
+      "coverSourceUrl": "https://www.youtube.com/watch?v=xIYfDbkq-SM",
+      "coverMatch": "Ado 官方《春に舞う》公开影像画面",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/",
+        "https://www.youtube.com/watch?v=xIYfDbkq-SM"
+      ],
+      "sourceStatus": "官方发行页与公开影像已核对",
+      "notes": "2026 年数字发行；列表封面取自对应公开影像。",
+      "coverHash": "9f738f9c78d7b575a715b6d5641349beac212239a21543d2f796de0bc7001c87"
+    },
+    {
+      "id": "song-love-me-forever",
+      "title": "Love me forever!",
+      "aliases": [
+        "Love me forever!",
+        "Love me forever!"
+      ],
+      "roma": "Love me forever!",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "digital-single",
+      "genres": [
+        "J-pop",
+        "Dance"
+      ],
+      "releaseDate": "2026",
+      "decade": "2020s",
+      "album": "数字单曲",
+      "albumId": "singles",
+      "albumIds": [
+        "singles"
+      ],
+      "releaseEntries": [
+        {
+          "title": "デジタルシングル",
+          "date": "2026",
+          "kind": "original"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "待核实",
+      "composer": "待核实",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开影像",
+      "mvUrl": "https://www.youtube.com/watch?v=WSuAVkaSC38",
+      "cover": "assets/covers/mv-frames/love-me-forever.jpg",
+      "coverKind": "mv-frame",
+      "coverSource": "official-youtube",
+      "coverFrame": "thumbnail",
+      "coverSourceUrl": "https://www.youtube.com/watch?v=WSuAVkaSC38",
+      "coverMatch": "Ado 官方《Love me forever!》公开影像画面",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/",
+        "https://www.youtube.com/watch?v=WSuAVkaSC38"
+      ],
+      "sourceStatus": "官方发行页与公开影像已核对",
+      "notes": "2026 年数字发行；使用对应公开影像画面。",
+      "coverHash": "1538610442e89963eefd275633a05f0f49ac11699df3e9634e59c573e35cb057"
+    },
+    {
+      "id": "song-新時代",
+      "title": "新時代",
+      "aliases": [
+        "新時代",
+        "New Genesis"
+      ],
+      "roma": "New Genesis",
+      "chinese": "",
+      "type": "collaboration",
+      "releaseClass": "album-track",
+      "genres": [
+        "J-pop",
+        "Dance"
+      ],
+      "releaseDate": "2022",
+      "decade": "2020s",
+      "album": "ウタの歌 ONE PIECE FILM RED",
+      "albumId": "uta",
+      "albumIds": [
+        "uta",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "ウタの歌 ONE PIECE FILM RED",
+          "date": "2022",
+          "kind": "collaboration"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado（ウタ歌唱）",
+      "lyricist": "待核实",
+      "composer": "中田ヤスタカ",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/covers/11.png",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "bcb68a05d83ff9aa485ef0a4aa135c82d827cf3c641c94df6a2fb4e3dd082083"
+    },
+    {
+      "id": "song-私は最強",
+      "title": "私は最強",
+      "aliases": [
+        "私は最強",
+        "I’m Invincible"
+      ],
+      "roma": "I’m Invincible",
+      "chinese": "",
+      "type": "collaboration",
+      "releaseClass": "album-track",
+      "genres": [
+        "J-pop",
+        "Rock"
+      ],
+      "releaseDate": "2022",
+      "decade": "2020s",
+      "album": "ウタの歌 ONE PIECE FILM RED",
+      "albumId": "uta",
+      "albumIds": [
+        "uta",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "ウタの歌 ONE PIECE FILM RED",
+          "date": "2022",
+          "kind": "collaboration"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado（ウタ歌唱）",
+      "lyricist": "待核实",
+      "composer": "Mrs. GREEN APPLE",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方页面未说明",
+      "mvUrl": "",
+      "cover": "assets/covers/10.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "5b9f23de1888d3326ef7abd93a9762044d1c490c4db335e36db70dfb63b12cb0"
+    },
+    {
+      "id": "song-逆光",
+      "title": "逆光",
+      "aliases": [
+        "逆光",
+        "Backlight"
+      ],
+      "roma": "Backlight",
+      "chinese": "",
+      "type": "collaboration",
+      "releaseClass": "album-track",
+      "genres": [
+        "Rock",
+        "Soundtrack"
+      ],
+      "releaseDate": "2022",
+      "decade": "2020s",
+      "album": "ウタの歌 ONE PIECE FILM RED",
+      "albumId": "uta",
+      "albumIds": [
+        "uta",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "ウタの歌 ONE PIECE FILM RED",
+          "date": "2022",
+          "kind": "collaboration"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado（ウタ歌唱）",
+      "lyricist": "待核实",
+      "composer": "Vaundy",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/covers/09.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": "assets/music/逆光 (ウタ from ONE PIECE FILM RED) - Ado.mp3",
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "3c9a6ee8a8c21c3ae1731041cb78f8a8ec56bcd8bebe49001383c44c7f69e6d7"
+    },
+    {
+      "id": "song-ウタカタララバイ",
+      "title": "ウタカタララバイ",
+      "aliases": [
+        "ウタカタララバイ",
+        "Fleeting Lullaby"
+      ],
+      "roma": "Fleeting Lullaby",
+      "chinese": "",
+      "type": "collaboration",
+      "releaseClass": "album-track",
+      "genres": [
+        "Electronic",
+        "Soundtrack"
+      ],
+      "releaseDate": "2022",
+      "decade": "2020s",
+      "album": "ウタの歌 ONE PIECE FILM RED",
+      "albumId": "uta",
+      "albumIds": [
+        "uta",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "ウタの歌 ONE PIECE FILM RED",
+          "date": "2022",
+          "kind": "collaboration"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado（ウタ歌唱）",
+      "lyricist": "待核实",
+      "composer": "FAKE TYPE.",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方页面未说明",
+      "mvUrl": "",
+      "cover": "assets/covers/11.png",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "bcb68a05d83ff9aa485ef0a4aa135c82d827cf3c641c94df6a2fb4e3dd082083"
+    },
+    {
+      "id": "song-tot-musica",
+      "title": "Tot Musica",
+      "aliases": [
+        "Tot Musica",
+        "Tot Musica"
+      ],
+      "roma": "Tot Musica",
+      "chinese": "",
+      "type": "collaboration",
+      "releaseClass": "album-track",
+      "genres": [
+        "Soundtrack",
+        "Rock"
+      ],
+      "releaseDate": "2022",
+      "decade": "2020s",
+      "album": "ウタの歌 ONE PIECE FILM RED",
+      "albumId": "uta",
+      "albumIds": [
+        "uta",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "ウタの歌 ONE PIECE FILM RED",
+          "date": "2022",
+          "kind": "collaboration"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado（ウタ歌唱）",
+      "lyricist": "待核实",
+      "composer": "澤野弘之",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方页面未说明",
+      "mvUrl": "",
+      "cover": "assets/covers/11.png",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": "assets/music/Tot Musica - Ado.mp3",
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "bcb68a05d83ff9aa485ef0a4aa135c82d827cf3c641c94df6a2fb4e3dd082083"
+    },
+    {
+      "id": "song-世界のつづき",
+      "title": "世界のつづき",
+      "aliases": [
+        "世界のつづき",
+        "The World's Continuation"
+      ],
+      "roma": "The World's Continuation",
+      "chinese": "",
+      "type": "collaboration",
+      "releaseClass": "album-track",
+      "genres": [
+        "Ballad",
+        "Soundtrack"
+      ],
+      "releaseDate": "2022",
+      "decade": "2020s",
+      "album": "ウタの歌 ONE PIECE FILM RED",
+      "albumId": "uta",
+      "albumIds": [
+        "uta"
+      ],
+      "releaseEntries": [
+        {
+          "title": "ウタの歌 ONE PIECE FILM RED",
+          "date": "2022",
+          "kind": "collaboration"
+        }
+      ],
+      "originalArtist": "Ado（ウタ歌唱）",
+      "lyricist": "待核实",
+      "composer": "折坂悠太",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方页面未说明",
+      "mvUrl": "",
+      "cover": "assets/covers/11.png",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "bcb68a05d83ff9aa485ef0a4aa135c82d827cf3c641c94df6a2fb4e3dd082083"
+    },
+    {
+      "id": "song-風のゆくえ",
+      "title": "風のゆくえ",
+      "aliases": [
+        "風のゆくえ",
+        "Where the Wind Blows"
+      ],
+      "roma": "Where the Wind Blows",
+      "chinese": "",
+      "type": "collaboration",
+      "releaseClass": "album-track",
+      "genres": [
+        "Ballad",
+        "Soundtrack"
+      ],
+      "releaseDate": "2022",
+      "decade": "2020s",
+      "album": "ウタの歌 ONE PIECE FILM RED",
+      "albumId": "uta",
+      "albumIds": [
+        "uta"
+      ],
+      "releaseEntries": [
+        {
+          "title": "ウタの歌 ONE PIECE FILM RED",
+          "date": "2022",
+          "kind": "collaboration"
+        }
+      ],
+      "originalArtist": "Ado（ウタ歌唱）",
+      "lyricist": "待核实",
+      "composer": "秦基博",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方页面未说明",
+      "mvUrl": "",
+      "cover": "assets/covers/12.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "c2b54caabdcd799d0aaa6d8efc2bc4e60d0d41619ba407f0865000f1f5f2592a"
+    },
+    {
+      "id": "song-ドライフラワー",
+      "title": "ドライフラワー",
+      "aliases": [
+        "ドライフラワー",
+        "Dry Flower"
+      ],
+      "roma": "Dry Flower",
+      "chinese": "",
+      "type": "cover",
+      "releaseClass": "cover-release",
+      "genres": [
+        "Cover",
+        "J-pop"
+      ],
+      "releaseDate": "2023",
+      "decade": "2020s",
+      "album": "歌ってみた",
+      "albumId": "utattemita",
+      "albumIds": [
+        "utattemita"
+      ],
+      "releaseEntries": [
+        {
+          "title": "歌ってみた",
+          "date": "2023",
+          "kind": "cover"
+        }
+      ],
+      "originalArtist": "優里",
+      "lyricist": "待核实",
+      "composer": "優里",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方页面未说明",
+      "mvUrl": "",
+      "cover": "assets/covers/utattemita/dry-flower.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "8ee129746a162993526ea834c6a6b3a158e4c1a72dc91a87a02582d2535d0ca1"
+    },
+    {
+      "id": "song-飾りじゃないのよ涙は",
+      "title": "飾りじゃないのよ涙は",
+      "aliases": [
+        "飾りじゃないのよ涙は",
+        "Kazari ja Nai no yo Namida wa"
+      ],
+      "roma": "Kazari ja Nai no yo Namida wa",
+      "chinese": "",
+      "type": "cover",
+      "releaseClass": "cover-release",
+      "genres": [
+        "Cover",
+        "J-pop"
+      ],
+      "releaseDate": "2023",
+      "decade": "2020s",
+      "album": "歌ってみた",
+      "albumId": "utattemita",
+      "albumIds": [
+        "utattemita"
+      ],
+      "releaseEntries": [
+        {
+          "title": "歌ってみた",
+          "date": "2023",
+          "kind": "cover"
+        }
+      ],
+      "originalArtist": "中森明菜",
+      "lyricist": "待核实",
+      "composer": "井上陽水",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方页面未说明",
+      "mvUrl": "",
+      "cover": "assets/covers/utattemita/kazari-ja-nai.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "8fa77fd6064b732f7170cd787da9d4527198c9b9cfb742be261e336c6f34f08d"
+    },
+    {
+      "id": "song-愛して愛して愛して",
+      "title": "愛して愛して愛して",
+      "aliases": [
+        "愛して愛して愛して",
+        "Aishite Aishite Aishite"
+      ],
+      "roma": "Aishite Aishite Aishite",
+      "chinese": "",
+      "type": "cover",
+      "releaseClass": "cover-release",
+      "genres": [
+        "Cover",
+        "J-pop"
+      ],
+      "releaseDate": "2023",
+      "decade": "2020s",
+      "album": "歌ってみた",
+      "albumId": "utattemita",
+      "albumIds": [
+        "utattemita",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "歌ってみた",
+          "date": "2023",
+          "kind": "cover"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "きくお",
+      "lyricist": "待核实",
+      "composer": "きくお",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "沼田ゾンビ / しゃもじ",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/covers/utattemita/aishite-aishite-aishite.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "9f1f2ece50f214ad28b71883ddb4dd0c78ccd67dac852b9044e7c8563c30ba11"
+    },
+    {
+      "id": "song-罪と罰",
+      "title": "罪と罰",
+      "aliases": [
+        "罪と罰",
+        "Tsumi to Batsu"
+      ],
+      "roma": "Tsumi to Batsu",
+      "chinese": "",
+      "type": "cover",
+      "releaseClass": "cover-release",
+      "genres": [
+        "Cover",
+        "Rock"
+      ],
+      "releaseDate": "2023",
+      "decade": "2020s",
+      "album": "歌ってみた",
+      "albumId": "utattemita",
+      "albumIds": [
+        "utattemita"
+      ],
+      "releaseEntries": [
+        {
+          "title": "歌ってみた",
+          "date": "2023",
+          "kind": "cover"
+        }
+      ],
+      "originalArtist": "椎名林檎",
+      "lyricist": "待核实",
+      "composer": "椎名林檎",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方页面未说明",
+      "mvUrl": "",
+      "cover": "assets/covers/utattemita/tsumi-to-batsu.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "47cc754d093b71d225b117a2e24993243f6db095ca737d0d21ea733ca61b3a15"
+    },
+    {
+      "id": "song-可愛くてごめん",
+      "title": "可愛くてごめん",
+      "aliases": [
+        "可愛くてごめん",
+        "Kawaikute Gomen"
+      ],
+      "roma": "Kawaikute Gomen",
+      "chinese": "",
+      "type": "cover",
+      "releaseClass": "cover-release",
+      "genres": [
+        "Cover",
+        "J-pop"
+      ],
+      "releaseDate": "2023",
+      "decade": "2020s",
+      "album": "歌ってみた",
+      "albumId": "utattemita",
+      "albumIds": [
+        "utattemita"
+      ],
+      "releaseEntries": [
+        {
+          "title": "歌ってみた",
+          "date": "2023",
+          "kind": "cover"
+        }
+      ],
+      "originalArtist": "HoneyWorks",
+      "lyricist": "待核实",
+      "composer": "shito",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方页面未说明",
+      "mvUrl": "",
+      "cover": "assets/covers/utattemita/kawaikute-gomen.webp",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "228f82bc4d797a3f307dbf59b4f909eae4632a812475f08a6774cf1786a602a5"
+    },
+    {
+      "id": "song-ヴィラン",
+      "title": "ヴィラン",
+      "aliases": [
+        "ヴィラン",
+        "Villain"
+      ],
+      "roma": "Villain",
+      "chinese": "",
+      "type": "cover",
+      "releaseClass": "cover-release",
+      "genres": [
+        "Cover",
+        "Rock"
+      ],
+      "releaseDate": "2023",
+      "decade": "2020s",
+      "album": "歌ってみた",
+      "albumId": "utattemita",
+      "albumIds": [
+        "utattemita"
+      ],
+      "releaseEntries": [
+        {
+          "title": "歌ってみた",
+          "date": "2023",
+          "kind": "cover"
+        }
+      ],
+      "originalArtist": "てにをは",
+      "lyricist": "待核实",
+      "composer": "てにをは",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方页面未说明",
+      "mvUrl": "",
+      "cover": "assets/covers/utattemita/villain.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "d0d57f29a231f9155300fa0737528acdb4051ed0aafa532ce7059724de3d8cd6"
+    },
+    {
+      "id": "song-神っぽいな",
+      "title": "神っぽいな",
+      "aliases": [
+        "神っぽいな",
+        "Kamippoi na"
+      ],
+      "roma": "Kamippoi na",
+      "chinese": "",
+      "type": "cover",
+      "releaseClass": "cover-release",
+      "genres": [
+        "Cover",
+        "Electronic"
+      ],
+      "releaseDate": "2023",
+      "decade": "2020s",
+      "album": "歌ってみた",
+      "albumId": "utattemita",
+      "albumIds": [
+        "utattemita"
+      ],
+      "releaseEntries": [
+        {
+          "title": "歌ってみた",
+          "date": "2023",
+          "kind": "cover"
+        }
+      ],
+      "originalArtist": "ピノキオピー",
+      "lyricist": "待核实",
+      "composer": "ピノキオピー",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方页面未说明",
+      "mvUrl": "",
+      "cover": "assets/covers/utattemita/kamippoi-na.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "34a2c89fb15bda89781f80c136d1b95eb0749212888a96351653763fe651a12b"
+    },
+    {
+      "id": "song-unravel",
+      "title": "unravel",
+      "aliases": [
+        "unravel",
+        "unravel"
+      ],
+      "roma": "unravel",
+      "chinese": "",
+      "type": "cover",
+      "releaseClass": "cover-release",
+      "genres": [
+        "Cover",
+        "Rock"
+      ],
+      "releaseDate": "2023",
+      "decade": "2020s",
+      "album": "歌ってみた",
+      "albumId": "utattemita",
+      "albumIds": [
+        "utattemita",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "歌ってみた",
+          "date": "2023",
+          "kind": "cover"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "TK from 凛として時雨",
+      "lyricist": "待核实",
+      "composer": "TK from 凛として時雨",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/covers/utattemita/unravel.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "0088d05c4a429b6e7f4f7e2da5b46747fd4c23f827e89765cd3ebfdd320f6f7d"
+    },
+    {
+      "id": "song-ブリキノダンス",
+      "title": "ブリキノダンス",
+      "aliases": [
+        "ブリキノダンス",
+        "Buriki no Dance"
+      ],
+      "roma": "Buriki no Dance",
+      "chinese": "",
+      "type": "cover",
+      "releaseClass": "cover-release",
+      "genres": [
+        "Cover",
+        "Rock"
+      ],
+      "releaseDate": "2023",
+      "decade": "2020s",
+      "album": "歌ってみた",
+      "albumId": "utattemita",
+      "albumIds": [
+        "utattemita"
+      ],
+      "releaseEntries": [
+        {
+          "title": "歌ってみた",
+          "date": "2023",
+          "kind": "cover"
+        }
+      ],
+      "originalArtist": "日向電工",
+      "lyricist": "待核实",
+      "composer": "日向電工",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "",
+      "cover": "assets/covers/utattemita/buriki-no-dance.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "7201cd77241f63d3ac7d4648356d57fb9f1c030cb675974dcaef88793b874b72"
+    },
+    {
+      "id": "song-夜明けと蛍",
+      "title": "夜明けと蛍",
+      "aliases": [
+        "夜明けと蛍",
+        "Yoake to Hotaru"
+      ],
+      "roma": "Yoake to Hotaru",
+      "chinese": "",
+      "type": "cover",
+      "releaseClass": "cover-release",
+      "genres": [
+        "Cover",
+        "Ballad"
+      ],
+      "releaseDate": "2023",
+      "decade": "2020s",
+      "album": "歌ってみた",
+      "albumId": "utattemita",
+      "albumIds": [
+        "utattemita"
+      ],
+      "releaseEntries": [
+        {
+          "title": "歌ってみた",
+          "date": "2023",
+          "kind": "cover"
+        }
+      ],
+      "originalArtist": "n-buna",
+      "lyricist": "待核实",
+      "composer": "n-buna",
+      "arranger": "待核实",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方页面未说明",
+      "mvUrl": "",
+      "cover": "assets/covers/utattemita/yoake-to-hotaru.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "资料整理内容",
+      "notes": "",
+      "coverHash": "e235c7deabe23982779b96be8ae496455f6f287bc9773f27cbd7f22c07f16193"
+    },
+    {
+      "id": "song-好きでいて",
+      "title": "好きでいて",
+      "aliases": [
+        "好きでいて",
+        "Suki de Ite"
+      ],
+      "roma": "Suki de Ite",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "digital-single",
+      "genres": [
+        "J-pop",
+        "Ballad"
+      ],
+      "releaseDate": "2026-09-07",
+      "decade": "2020s",
+      "album": "数字单曲",
+      "albumId": "singles",
+      "albumIds": [
+        "singles"
+      ],
+      "releaseEntries": [
+        {
+          "title": "数字单曲",
+          "date": "2026-09-07",
+          "kind": "original"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "官方页面未说明",
+      "composer": "官方页面未说明",
+      "arranger": "官方页面未说明",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开影像",
+      "mvUrl": "https://www.youtube.com/watch?v=iTNwVheLpj8",
+      "cover": "assets/covers/mv-frames/suki-de-ite.jpg",
+      "coverKind": "mv-frame",
+      "coverSource": "official-youtube",
+      "coverFrame": "thumbnail",
+      "coverSourceUrl": "https://www.youtube.com/watch?v=iTNwVheLpj8",
+      "coverMatch": "Ado 官方《好きでいて》公开影像画面",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/products/uv1as-02471/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/products/uv1as-02471/",
+        "https://www.youtube.com/watch?v=iTNwVheLpj8"
+      ],
+      "sourceStatus": "Universal Music Japan 官方发行页",
+      "notes": "",
+      "coverHash": "e1bd98b9b235f91224b84c2d7af953727d7a7b96a7c5a2ef32e8cb016511723a"
+    },
+    {
+      "id": "song-モンストロ",
+      "title": "モンストロ",
+      "aliases": [
+        "モンストロ",
+        "Monstruo"
+      ],
+      "roma": "Monstruo",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "digital-single",
+      "genres": [
+        "J-pop",
+        "Rock"
+      ],
+      "releaseDate": "2026-08-07",
+      "decade": "2020s",
+      "album": "数字单曲",
+      "albumId": "singles",
+      "albumIds": [
+        "singles"
+      ],
+      "releaseEntries": [
+        {
+          "title": "数字单曲",
+          "date": "2026-08-07",
+          "kind": "original"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "官方页面未说明",
+      "composer": "官方页面未说明",
+      "arranger": "官方页面未说明",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开影像",
+      "mvUrl": "https://www.youtube.com/watch?v=4IKHox-DKrM",
+      "cover": "assets/covers/mv-frames/monstruo.jpg",
+      "coverKind": "mv-frame",
+      "coverSource": "official-youtube",
+      "coverFrame": "thumbnail",
+      "coverSourceUrl": "https://www.youtube.com/watch?v=4IKHox-DKrM",
+      "coverMatch": "Ado 官方《モンストロ》公开影像画面",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/products/uv1as-02440/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/products/uv1as-02440/",
+        "https://www.youtube.com/watch?v=4IKHox-DKrM"
+      ],
+      "sourceStatus": "Universal Music Japan 官方发行页",
+      "notes": "",
+      "coverHash": "df8c6f70364cb629ef28c057b6c3fb172f0cf6f4ee954199a1e73387d552ab19"
+    },
+    {
+      "id": "song-cat-s-eye",
+      "title": "CAT'S EYE",
+      "aliases": [
+        "CAT'S EYE"
+      ],
+      "roma": "CAT'S EYE",
+      "chinese": "",
+      "type": "theme-song",
+      "releaseClass": "theme-song",
+      "genres": [
+        "J-pop",
+        "Soundtrack"
+      ],
+      "releaseDate": "2025-09-12",
+      "decade": "2020s",
+      "album": "数字单曲",
+      "albumId": "singles",
+      "albumIds": [
+        "singles"
+      ],
+      "releaseEntries": [
+        {
+          "title": "数字单曲",
+          "date": "2025-09-12",
+          "kind": "theme-song"
+        }
+      ],
+      "originalArtist": "杏里",
+      "lyricist": "官方页面未说明",
+      "composer": "官方页面未说明",
+      "arranger": "官方页面未说明",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "https://www.youtube.com/watch?v=8-Qekf_GBow",
+      "cover": "assets/covers/mv-frames/cats-eye.jpg",
+      "coverKind": "mv-frame",
+      "coverSource": "official-youtube",
+      "coverFrame": "thumbnail",
+      "coverSourceUrl": "https://www.youtube.com/watch?v=8-Qekf_GBow",
+      "coverMatch": "Ado 官方《CAT'S EYE》公开影像画面",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/products/uv1as-02016/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/products/uv1as-02016/",
+        "https://www.youtube.com/watch?v=8-Qekf_GBow"
+      ],
+      "sourceStatus": "Universal Music Japan 官方发行页",
+      "notes": "2025 年新版动画《キャッツ♥アイ》相关主题曲；原曲歌唱者为杏里。",
+      "coverHash": "56132e2a0fb623b3b0d5ba20faf6cd3b7344dd88a62db1d96a59526a101509f2"
+    },
+    {
+      "id": "song-ゲゲゲの鬼太郎",
+      "title": "ゲゲゲの鬼太郎",
+      "aliases": [
+        "ゲゲゲの鬼太郎",
+        "GeGeGe no Kitaro"
+      ],
+      "roma": "GeGeGe no Kitaro",
+      "chinese": "",
+      "type": "theme-song",
+      "releaseClass": "theme-song",
+      "genres": [
+        "J-pop",
+        "Soundtrack"
+      ],
+      "releaseDate": "2025-05-16",
+      "decade": "2020s",
+      "album": "数字单曲",
+      "albumId": "singles",
+      "albumIds": [
+        "singles"
+      ],
+      "releaseEntries": [
+        {
+          "title": "数字单曲",
+          "date": "2025-05-16",
+          "kind": "theme-song"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "官方页面未说明",
+      "composer": "官方页面未说明",
+      "arranger": "官方页面未说明",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方页面未说明",
+      "mvUrl": "",
+      "cover": "assets/covers/mv-frames/gegege-no-kitaro.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "official-release",
+      "coverFrame": "release-artwork",
+      "coverSourceUrl": "https://www.universal-music.co.jp/ado/products/uv1as-01875/",
+      "coverMatch": "Universal Music Japan 数字发行封面",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/products/uv1as-01875/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/products/uv1as-01875/"
+      ],
+      "sourceStatus": "Universal Music Japan 官方发行页",
+      "notes": "",
+      "coverHash": "fabbdcb373e52ce569cee38a6d3f046d6b7ce96241bc3fbb6c92e8e93edf9420"
+    },
+    {
+      "id": "song-episode-x",
+      "title": "Episode X",
+      "aliases": [
+        "Episode X"
+      ],
+      "roma": "Episode X",
+      "chinese": "",
+      "type": "theme-song",
+      "releaseClass": "theme-song",
+      "genres": [
+        "J-pop",
+        "Soundtrack"
+      ],
+      "releaseDate": "2024-12-06",
+      "decade": "2020s",
+      "album": "数字单曲",
+      "albumId": "singles",
+      "albumIds": [
+        "singles",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "数字单曲",
+          "date": "2024-12-06",
+          "kind": "theme-song"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "官方页面未说明",
+      "composer": "官方页面未说明",
+      "arranger": "官方页面未说明",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开影像",
+      "mvUrl": "https://www.youtube.com/watch?v=9dKZeL2UbUM",
+      "cover": "assets/covers/mv-frames/episode-x.jpg",
+      "coverKind": "mv-frame",
+      "coverSource": "official-youtube",
+      "coverFrame": "thumbnail",
+      "coverSourceUrl": "https://www.youtube.com/watch?v=9dKZeL2UbUM",
+      "coverMatch": "Ado 官方《Episode X》公开影像画面",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/products/uv1as-01711/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/products/uv1as-01711/",
+        "https://www.youtube.com/watch?v=9dKZeL2UbUM"
+      ],
+      "sourceStatus": "Universal Music Japan 官方发行页",
+      "notes": "",
+      "coverHash": "c4406b42d1fad3b77af11424cb5b5d97cd5ee715f81026b1d28603daf3d2b611"
+    },
+    {
+      "id": "song-踊-bon-odo-remix",
+      "title": "踊 (Bon-Odo Remix)",
+      "aliases": [
+        "踊 (Bon-Odo Remix)",
+        "Odo Bon-Odo Remix"
+      ],
+      "roma": "Odo Bon-Odo Remix",
+      "chinese": "",
+      "type": "special-release",
+      "releaseClass": "special-release",
+      "genres": [
+        "Dance",
+        "Electronic"
+      ],
+      "releaseDate": "2021-08-31",
+      "decade": "2020s",
+      "album": "数字单曲",
+      "albumId": "singles",
+      "albumIds": [
+        "singles"
+      ],
+      "releaseEntries": [
+        {
+          "title": "数字单曲",
+          "date": "2021-08-31",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "官方页面未说明",
+      "composer": "Giga / TeddyLoid",
+      "arranger": "官方页面未说明",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方页面未说明",
+      "mvUrl": "",
+      "cover": "assets/covers/03.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "official-release",
+      "coverFrame": "parent-track-artwork",
+      "coverSourceUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "coverMatch": "《踊》Bon-Odo Remix 沿用同曲主视觉；未另行确认独立 Remix 封面",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "Universal Music Japan 官方发行页",
+      "notes": "",
+      "coverHash": "6c6928725cae2b1c4549dd21d60eda8a9e099f6e32878ade6ac634f4ecd18f8b"
+    },
+    {
+      "id": "song-夜のピエロ-teddyloid-remix",
+      "title": "夜のピエロ (TeddyLoid Remix)",
+      "aliases": [
+        "夜のピエロ (TeddyLoid Remix)",
+        "Yoru no Pierrot TeddyLoid Remix"
+      ],
+      "roma": "Yoru no Pierrot TeddyLoid Remix",
+      "chinese": "",
+      "type": "special-release",
+      "releaseClass": "special-release",
+      "genres": [
+        "Dance",
+        "Electronic"
+      ],
+      "releaseDate": "2021-07-29",
+      "decade": "2020s",
+      "album": "数字单曲",
+      "albumId": "singles",
+      "albumIds": [
+        "singles"
+      ],
+      "releaseEntries": [
+        {
+          "title": "数字单曲",
+          "date": "2021-07-29",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "官方页面未说明",
+      "composer": "TeddyLoid",
+      "arranger": "官方页面未说明",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方页面未说明",
+      "mvUrl": "",
+      "cover": "assets/covers/album-kyogen.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "official-release",
+      "coverFrame": "parent-album-artwork",
+      "coverSourceUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "coverMatch": "《夜のピエロ》TeddyLoid Remix 沿用所属专辑《狂言》视觉；未另行确认独立 Remix 封面",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "Universal Music Japan 官方发行页",
+      "notes": "",
+      "coverHash": "893113ac432860976fba57f225859e4c5748d3da481710bd457c7b6d258349ed"
+    },
+    {
+      "id": "song-うっせぇわ-giga-remix",
+      "title": "うっせぇわ (Giga Remix)",
+      "aliases": [
+        "うっせぇわ (Giga Remix)",
+        "Usseewa Giga Remix"
+      ],
+      "roma": "Usseewa Giga Remix",
+      "chinese": "",
+      "type": "special-release",
+      "releaseClass": "special-release",
+      "genres": [
+        "Rock",
+        "Electronic"
+      ],
+      "releaseDate": "2021-02-05",
+      "decade": "2020s",
+      "album": "数字单曲",
+      "albumId": "singles",
+      "albumIds": [
+        "singles"
+      ],
+      "releaseEntries": [
+        {
+          "title": "数字单曲",
+          "date": "2021-02-05",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "官方页面未说明",
+      "composer": "Giga",
+      "arranger": "官方页面未说明",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方页面未说明",
+      "mvUrl": "",
+      "cover": "assets/covers/08.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "official-release",
+      "coverFrame": "parent-track-artwork",
+      "coverSourceUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "coverMatch": "《うっせぇわ》Giga Remix 沿用同曲主视觉；未另行确认独立 Remix 封面",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "Universal Music Japan 官方发行页",
+      "notes": "",
+      "coverHash": "ba1f58fcf4e78add2369aad79b5e3e980405a5e8b9a01b2785f09740e6e9144d"
+    },
+    {
+      "id": "song-会いたくて-piano-strings-ver",
+      "title": "会いたくて (Piano & Strings Ver.)",
+      "aliases": [
+        "会いたくて (Piano & Strings Ver.)",
+        "Aitakute Piano and Strings Version"
+      ],
+      "roma": "Aitakute Piano and Strings Version",
+      "chinese": "",
+      "type": "special-release",
+      "releaseClass": "special-release",
+      "genres": [
+        "Ballad"
+      ],
+      "releaseDate": "2021-09-30",
+      "decade": "2020s",
+      "album": "数字单曲",
+      "albumId": "singles",
+      "albumIds": [
+        "singles"
+      ],
+      "releaseEntries": [
+        {
+          "title": "数字单曲",
+          "date": "2021-09-30",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "官方页面未说明",
+      "composer": "官方页面未说明",
+      "arranger": "官方页面未说明",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方页面未说明",
+      "mvUrl": "",
+      "cover": "assets/covers/06.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "official-release",
+      "coverFrame": "parent-track-artwork",
+      "coverSourceUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "coverMatch": "《会いたくて》Piano & Strings Ver. 沿用同曲主视觉；未另行确认独立版本封面",
+      "audio": null,
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ],
+      "sourceStatus": "Universal Music Japan 官方发行页",
+      "notes": "",
+      "coverHash": "8aaeb4478cb5aa27f4c165bde87567e0fe5c557e3ecc101801d940a4d836a347"
+    },
+    {
+      "id": "song-桜日和とタイムマシン-with-初音ミク",
+      "title": "桜日和とタイムマシン with 初音ミク",
+      "aliases": [
+        "桜日和とタイムマシン with 初音ミク",
+        "Sakurabiyori to Time Machine with Hatsune Miku"
+      ],
+      "roma": "Sakurabiyori to Time Machine with Hatsune Miku",
+      "chinese": "",
+      "type": "collaboration",
+      "releaseClass": "digital-single",
+      "genres": [
+        "J-pop",
+        "Collaboration"
+      ],
+      "releaseDate": "2024-10-24",
+      "decade": "2020s",
+      "album": "数字单曲",
+      "albumId": "singles",
+      "albumIds": [
+        "singles",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "数字单曲",
+          "date": "2024-10-24",
+          "kind": "collaboration"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado / 初音ミク",
+      "lyricist": "官方页面未说明",
+      "composer": "まふまふ",
+      "arranger": "官方页面未说明",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "https://www.universal-music.co.jp/ado/news/2024-10-24/",
+      "cover": "assets/collabs/miku-sakura.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://sp.universal-music.co.jp/ado/1stcdsingle/",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/1stcdsingle/"
+      ],
+      "sourceStatus": "Universal Music Japan 官方发行页",
+      "notes": "Ado 首张 CD 单曲收录曲；与初音未来合作，官方特设页注明乐曲提供为まふまふ。",
+      "coverHash": "05d70b1073f1a52ab8f641b5315303825617752042b227e43203759bd8fde965"
+    },
+    {
+      "id": "song-初夏",
+      "title": "初夏",
+      "aliases": [
+        "初夏",
+        "Shoka"
+      ],
+      "roma": "Shoka",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "digital-single",
+      "genres": [
+        "J-pop",
+        "Ballad"
+      ],
+      "releaseDate": "2024-10-14",
+      "decade": "2020s",
+      "album": "数字单曲",
+      "albumId": "singles",
+      "albumIds": [
+        "singles",
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "数字单曲",
+          "date": "2024-10-14",
+          "kind": "original"
+        },
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "special-release"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "Ado",
+      "composer": "Ado",
+      "arranger": "官方页面未说明",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": true,
+      "mvStatus": "已核对公开 MV",
+      "mvUrl": "https://www.youtube.com/watch?v=GORsp0gc2Nc",
+      "cover": "assets/collabs/miku-sakura.jpg",
+      "coverKind": "release-cover",
+      "coverSource": "official-release",
+      "coverFrame": "release-artwork",
+      "coverSourceUrl": "https://sp.universal-music.co.jp/ado/1stcdsingle/",
+      "coverMatch": "《桜日和とタイムマシン with 初音ミク／初夏》双 A 面单曲发行封面",
+      "audio": null,
+      "officialUrl": "https://sp.universal-music.co.jp/ado/1stcdsingle/",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/1stcdsingle/"
+      ],
+      "sourceStatus": "Universal Music Japan 官方发行页",
+      "notes": "Ado 首次公开作词作曲的发行曲；10 月 14 日先行配信，10 月 24 日与《桜日和とタイムマシン with 初音ミク》作为双 A 面单曲收录。",
+      "coverHash": "05d70b1073f1a52ab8f641b5315303825617752042b227e43203759bd8fde965"
+    },
+    {
+      "id": "song-stay-gold",
+      "title": "Stay Gold",
+      "aliases": [
+        "Stay Gold"
+      ],
+      "roma": "Stay Gold",
+      "chinese": "",
+      "type": "collaboration",
+      "releaseClass": "digital-single",
+      "genres": [
+        "Dance",
+        "Soundtrack"
+      ],
+      "releaseDate": "2025",
+      "decade": "2020s",
+      "album": "数字单曲",
+      "albumId": "singles",
+      "albumIds": [
+        "singles"
+      ],
+      "releaseEntries": [
+        {
+          "title": "数字单曲",
+          "date": "2025",
+          "kind": "collaboration"
+        }
+      ],
+      "originalArtist": "Jax Jones / Ado",
+      "lyricist": "官方页面未说明",
+      "composer": "官方页面未说明",
+      "arranger": "官方页面未说明",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方页面未说明",
+      "mvUrl": "",
+      "cover": "assets/covers/digital-singles.svg",
+      "coverKind": "generic-fallback",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://sp.universal-music.co.jp/ado/5thanniversary/",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/5thanniversary/"
+      ],
+      "sourceStatus": "Universal Music Japan 官方发行页",
+      "notes": "Jax Jones × Ado 合作曲，为动画《BEYBLADE X》新系列片尾曲；具体单曲发行日以官方发行页为准。",
+      "coverHash": "184b127ff61c538efe538bc013d630f04f265781851415074f442efd3395285a"
+    },
+    {
+      "id": "song-hello-signals",
+      "title": "Hello Signals",
+      "aliases": [
+        "Hello Signals"
+      ],
+      "roma": "Hello Signals",
+      "chinese": "",
+      "type": "original",
+      "releaseClass": "album-track",
+      "genres": [
+        "J-pop",
+        "Electronic"
+      ],
+      "releaseDate": "2025-04-09",
+      "decade": "2020s",
+      "album": "Adoのベストアドバム",
+      "albumId": "best",
+      "albumIds": [
+        "best"
+      ],
+      "releaseEntries": [
+        {
+          "title": "Adoのベストアドバム",
+          "date": "2025-04-09",
+          "kind": "original"
+        }
+      ],
+      "originalArtist": "Ado",
+      "lyricist": "伊根",
+      "composer": "伊根",
+      "arranger": "伊根",
+      "illustrator": "待核实",
+      "mvDirector": "待核实",
+      "hasMV": false,
+      "mvStatus": "官方页面未说明",
+      "mvUrl": "",
+      "cover": "assets/covers/digital-singles.svg",
+      "coverKind": "generic-fallback",
+      "coverSource": "",
+      "coverFrame": "",
+      "coverSourceUrl": "",
+      "coverMatch": "",
+      "audio": null,
+      "officialUrl": "https://sp.universal-music.co.jp/ado/adonobestadobum/",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/adonobestadobum/"
+      ],
+      "sourceStatus": "Universal Music Japan 官方发行页",
+      "notes": "《Adoのベストアドバム》官方曲目表列出的收录曲。",
+      "coverHash": "184b127ff61c538efe538bc013d630f04f265781851415074f442efd3395285a"
+    }
+  ],
+  "live": [
+    {
+      "title": "Ado 1st Live「喜劇」",
+      "year": "2022",
+      "date": "2022.04.04",
+      "location": "东京",
+      "venue": "Zepp DiverCity（TOKYO）",
+      "category": "One-man Live",
+      "image": "assets/live/frames/kigeki.jpg",
+      "officialUrl": "https://sp.universal-music.co.jp/ado/kyogen/",
+      "setlist": "待整理",
+      "notes": "官方《狂言》特设页核对了日期与会场；图片取自对应现场视觉资料。",
+      "imageSource": "official-youtube",
+      "imageFrame": "thumbnail",
+      "imageSourceUrl": "https://www.youtube.com/watch?v=fBnAP_FOy5U",
+      "imageMatch": "喜劇相关官方现场视觉",
+      "id": "live-ado-1st-live-喜劇",
+      "aliases": [
+        "Ado 1st Live「喜劇」"
+      ],
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/kyogen/",
+        "https://www.youtube.com/watch?v=fBnAP_FOy5U"
+      ],
+      "imageHash": "c97a5dbb7484d2205f24fee5426e43c4c0b5ade2caea4c6478b2970ff7b58083",
+      "imageStatus": "已保存本地视觉"
+    },
+    {
+      "title": "Ado 2nd Live「カムパネルラ」",
+      "year": "2022",
+      "date": "2022.08.11",
+      "location": "埼玉",
+      "venue": "さいたまスーパーアリーナ",
+      "category": "One-man Live",
+      "image": "assets/live/frames/campanella.jpg",
+      "officialUrl": "https://sp.universal-music.co.jp/ado/campanella/",
+      "setlist": "官方影像已发行；完整曲目待补",
+      "notes": "日期与会场已核对，图片取自对应现场片段。",
+      "imageSource": "official-youtube",
+      "imageFrame": "thumbnail",
+      "imageSourceUrl": "https://www.youtube.com/watch?v=YGx5fcgEuwA",
+      "imageMatch": "カムパネルラ相关官方现场片段",
+      "id": "live-ado-2nd-live-カムパネルラ",
+      "aliases": [
+        "Ado 2nd Live「カムパネルラ」"
+      ],
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/campanella/",
+        "https://www.youtube.com/watch?v=YGx5fcgEuwA"
+      ],
+      "imageHash": "b1eed5f86e20eeb6c6e80dda49206ffe7b9b83cd3d561c77f845a4b4c5425812",
+      "imageStatus": "已保存本地视觉"
+    },
+    {
+      "title": "Ado LIVE TOUR 2022—2023「蜃気楼」",
+      "year": "2022",
+      "date": "2022.12—2023.01",
+      "location": "日本全国",
+      "venue": "Zepp 等",
+      "category": "Japan Tour",
+      "image": "assets/live/frames/shinkirou.jpg",
+      "officialUrl": "https://www.universal-music.co.jp/ado/news/2022-11-30/",
+      "setlist": "待整理",
+      "notes": "官方新闻确认巡演名称与 2022.12.02 横滨首场；图片取自对应现场影像。",
+      "imageSource": "official-youtube",
+      "imageFrame": "thumbnail",
+      "imageSourceUrl": "https://www.youtube.com/watch?v=8dnjqzodjgo",
+      "imageMatch": "蜃気楼相关现场影像",
+      "id": "live-ado-live-tour-2022-2023-蜃気楼",
+      "aliases": [
+        "Ado LIVE TOUR 2022—2023「蜃気楼」"
+      ],
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/news/2022-11-30/",
+        "https://www.youtube.com/watch?v=8dnjqzodjgo"
+      ],
+      "imageHash": "8de8c5bd8d9ad9812189043495af82cb075b0a003f4b2d57d8a4fe2e4c1a474f",
+      "imageStatus": "已保存本地视觉"
+    },
+    {
+      "title": "全国ツアー2023「マーズ」",
+      "year": "2023",
+      "date": "2023.06.29—09.17",
+      "location": "日本全国",
+      "venue": "さいたまスーパーアリーナ、東京・日本武道館、大阪城ホール 等",
+      "category": "Japan Tour",
+      "image": "assets/live/frames/mars.jpg",
+      "officialUrl": "https://www.universal-music.co.jp/ado/news/2023-03-27/",
+      "setlist": "日本武道馆公演收录 23 曲影像",
+      "notes": "官方日程已核对；图片取自对应现场片段。",
+      "imageSource": "official-youtube",
+      "imageFrame": "thumbnail",
+      "imageSourceUrl": "https://www.youtube.com/watch?v=khplMpm4ctc",
+      "imageMatch": "マーズ日本武道馆现场片段",
+      "id": "live-全国ツアー2023-マーズ",
+      "aliases": [
+        "全国ツアー2023「マーズ」"
+      ],
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/news/2023-03-27/",
+        "https://www.youtube.com/watch?v=khplMpm4ctc"
+      ],
+      "imageHash": "affb28a1305828dbec774e8f6a83cb63ae9ad5d7c4bffa0c29d4465aa2c85dbd",
+      "imageStatus": "已保存本地视觉"
+    },
+    {
+      "title": "THE FIRST WORLD TOUR “Wish”",
+      "year": "2024",
+      "date": "2024.02—04",
+      "location": "世界巡演",
+      "venue": "11 个国家 / 14 座城市",
+      "category": "World Tour",
+      "image": "assets/live/frames/wish.jpg",
+      "officialUrl": "https://www.universal-music.co.jp/ado/news/2023-12-08/",
+      "setlist": "待整理",
+      "notes": "官方新闻确认 14 城巡演范围；图片取自洛杉矶场现场片段。",
+      "imageSource": "official-youtube",
+      "imageFrame": "thumbnail",
+      "imageSourceUrl": "https://www.youtube.com/watch?v=HmkbBdD8044",
+      "imageMatch": "Wish 洛杉矶现场片段",
+      "id": "live-the-first-world-tour-wish",
+      "aliases": [
+        "THE FIRST WORLD TOUR “Wish”"
+      ],
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/news/2023-12-08/",
+        "https://www.youtube.com/watch?v=HmkbBdD8044"
+      ],
+      "imageHash": "ef00738473f9d260ec7e6d00ff2b5ea3b6d9de9366b6fac1c95f328b03bc43c0",
+      "imageStatus": "已保存本地视觉"
+    },
+    {
+      "title": "SPECIAL LIVE 2024「心臓」",
+      "year": "2024",
+      "date": "2024.04.27—04.28",
+      "location": "东京",
+      "venue": "国立競技場",
+      "category": "Special Live",
+      "image": "assets/live/frames/shinzou.jpg",
+      "officialUrl": "https://www.universal-music.co.jp/ado/shinzou/",
+      "setlist": "官方特设页收录完整曲目",
+      "notes": "国立竞技场两日公演已由官方特设页核对；图片取自对应舞台视觉。",
+      "imageSource": "official-video",
+      "imageFrame": "thumbnail",
+      "imageSourceUrl": "https://www.youtube.com/watch?v=Vrr2gFTYMGQ",
+      "imageMatch": "心臓相关舞台视觉",
+      "id": "live-special-live-2024-心臓",
+      "aliases": [
+        "SPECIAL LIVE 2024「心臓」"
+      ],
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/shinzou/",
+        "https://www.youtube.com/watch?v=Vrr2gFTYMGQ"
+      ],
+      "imageHash": "86d3bc41b5729cd7994d57f1df7c2144d0315438f5dbf68ad05f9078849e3b84",
+      "imageStatus": "已保存本地视觉"
+    },
+    {
+      "title": "JAPAN TOUR 2024「モナ・リザの横顔」",
+      "year": "2024",
+      "date": "2024.07.14—10.13",
+      "location": "日本全国",
+      "venue": "9 个场馆 / 18 场公演",
+      "category": "Japan Tour",
+      "image": "assets/live/frames/mona-lisa.jpg",
+      "officialUrl": "https://www.universal-music.co.jp/ado/news/2024-04-27/",
+      "setlist": "待整理",
+      "notes": "官方新闻确认 7 月 14 日大阪开幕、10 月 13 日横滨收官，共 9 城 18 场；图片取自对应现场片段。",
+      "imageSource": "official-youtube",
+      "imageFrame": "thumbnail",
+      "imageSourceUrl": "https://www.youtube.com/watch?v=rzVKfAQp2No",
+      "imageMatch": "モナ・リザの横顔现场片段",
+      "id": "live-japan-tour-2024-モナ・リザの横顔",
+      "aliases": [
+        "JAPAN TOUR 2024「モナ・リザの横顔」"
+      ],
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/news/2024-04-27/",
+        "https://www.youtube.com/watch?v=rzVKfAQp2No"
+      ],
+      "imageHash": "b94a9b1155dcd377089adf5bcc293a9856ee9dadb8021ba25f276fa0818da915",
+      "imageStatus": "已保存本地视觉"
+    },
+    {
+      "title": "WORLD TOUR 2025「Hibana」",
+      "year": "2025",
+      "date": "2025.04.26—08.24",
+      "location": "世界巡演",
+      "venue": "33 个城市",
+      "category": "World Tour",
+      "image": "assets/live/frames/hibana.jpg",
+      "officialUrl": "https://www.universal-music.co.jp/ado/news/2025-04-27/",
+      "setlist": "待整理",
+      "notes": "官方新闻确认巡演规模与收官日期；图片取自对应巡演现场片段。",
+      "imageSource": "official-youtube",
+      "imageFrame": "thumbnail",
+      "imageSourceUrl": "https://www.youtube.com/watch?v=JsZASL6V0QU",
+      "imageMatch": "Hibana 现场片段",
+      "id": "live-world-tour-2025-hibana",
+      "aliases": [
+        "WORLD TOUR 2025「Hibana」"
+      ],
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/news/2025-04-27/",
+        "https://www.youtube.com/watch?v=JsZASL6V0QU"
+      ],
+      "imageHash": "ef2df327ee606474b383ec0b96c318541c868a4d97b9f48c0875e606d3c1ebf9",
+      "imageStatus": "已保存本地视觉"
+    },
+    {
+      "title": "DOME TOUR 2025「よだか」",
+      "year": "2025",
+      "date": "2025.11.11—11.23",
+      "location": "日本",
+      "venue": "东京巨蛋、京瓷巨蛋大阪",
+      "category": "Dome Tour",
+      "image": "assets/live/frames/yodaka.jpg",
+      "officialUrl": "https://www.universal-music.co.jp/ado/news/2025-11-07/",
+      "setlist": "待整理",
+      "notes": "官方页面确认东京 2 场、大阪 2 场；图片取自对应巡演视觉。",
+      "imageSource": "official-youtube",
+      "imageFrame": "thumbnail",
+      "imageSourceUrl": "https://www.youtube.com/watch?v=j0BSOL_WL3Y",
+      "imageMatch": "よだか相关官方视觉",
+      "id": "live-dome-tour-2025-よだか",
+      "aliases": [
+        "DOME TOUR 2025「よだか」"
+      ],
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/news/2025-11-07/",
+        "https://www.youtube.com/watch?v=j0BSOL_WL3Y"
+      ],
+      "imageHash": "ab5a945ddac3bdc941557e11c8b71dcb110aac75fcea37530b8cca4b38853856",
+      "imageStatus": "已保存本地视觉"
+    },
+    {
+      "title": "STADIUM LIVE 2026「Ao」",
+      "year": "2026",
+      "date": "2026.07.04—07.05",
+      "location": "神奈川",
+      "venue": "日产体育场",
+      "category": "Stadium Live",
+      "image": "assets/live/frames/ao.jpg",
+      "officialUrl": "https://www.universal-music.co.jp/ado/news/2026-06-06/",
+      "setlist": "待整理",
+      "notes": "官方新闻确认两日公演与 Road to Ao 特别影像企划；图片取自对应企划视觉。",
+      "imageSource": "official-release",
+      "imageFrame": "thumbnail",
+      "imageSourceUrl": "https://www.universal-music.co.jp/ado/news/2026-06-06/",
+      "imageMatch": "Ao 相关官方企划视觉",
+      "id": "live-stadium-live-2026-ao",
+      "aliases": [
+        "STADIUM LIVE 2026「Ao」"
+      ],
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/news/2026-06-06/",
+        "https://www.universal-music.co.jp/ado/news/2026-06-06/"
+      ],
+      "imageHash": "258b1875f37ce15bd854454bb36529823e9a3f1dea383cb9e8f3a9e6dd4c458e",
+      "imageStatus": "已保存本地视觉"
+    }
+  ],
+  "media": [
+    {
+      "title": "Adoのドキドキ秘密基地",
+      "category": "生放送",
+      "year": "2022—",
+      "image": "assets/ado-visual.jpg",
+      "description": "官方粉丝会员站的核心内容入口，包含生放送、视频企划、档案与会员限定内容。页面仅作索引，不复制视频。",
+      "url": "https://ado-dokidokihimitsukichi-daigakuimo.com/public_html/landing_page.html",
+      "status": "会员内容 / 官方入口",
+      "id": "media-adoのドキドキ秘密基地",
+      "aliases": [
+        "Adoのドキドキ秘密基地"
+      ],
+      "sourceUrls": []
+    },
+    {
+      "title": "Adoの楽屋前",
+      "category": "楽屋前 / 广播",
+      "year": "2022—",
+      "image": "assets/ado-visual_artist.jpg",
+      "description": "秘密基地中持续整理的周五广播栏目；节目是否公开、回放权限和更新状态以会员站当前说明为准。",
+      "url": "https://ado-dokidokihimitsukichi-daigakuimo.com/public_html/landing_page.html",
+      "status": "会员内容 / 资料索引",
+      "id": "media-adoの楽屋前",
+      "aliases": [
+        "Adoの楽屋前"
+      ],
+      "sourceUrls": []
+    },
+    {
+      "title": "Adoのドキドキ実況・短片企划",
+      "category": "动画 / 短片",
+      "year": "2022—",
+      "image": "assets/ado-album_utattemita.jpg",
+      "description": "将秘密基地内的动画、短视频和企划片段作为一组内容索引，避免把不同节目误写成单一系列。具体片名待按官方档案逐条补录。",
+      "url": "https://ado-dokidokihimitsukichi-daigakuimo.com/public_html/landing_page.html",
+      "status": "内容整理中",
+      "id": "media-adoのドキドキ実況・短片企划",
+      "aliases": [
+        "Adoのドキドキ実況・短片企划"
+      ],
+      "sourceUrls": []
+    },
+    {
+      "title": "教えて！Adoちゃん！！",
+      "category": "动画 / 短片",
+      "year": "2023",
+      "image": "assets/adoro-goods-promo.jpg",
+      "description": "ニコニコ超会議 2023 的特别企划，与「Adoの楽屋前」关联，并在 Ado 的衣橱取景录制；保留为活动影像索引。",
+      "url": "https://chokaigi.jp/2023/plan/ado.html",
+      "status": "特别企划 / 已归档",
+      "id": "media-教えて-adoちゃん",
+      "aliases": [
+        "教えて！Adoちゃん！！"
+      ],
+      "sourceUrls": []
+    },
+    {
+      "title": "Ado Official YouTube",
+      "category": "官方频道",
+      "year": "2020—",
+      "image": "assets/ado-character-kyogen.jpg",
+      "description": "公开 MV、现场影像、首映和短视频的官方频道入口；歌曲 MV 状态以具体视频页面为准。",
+      "url": "https://www.youtube.com/@Ado1024",
+      "status": "公开频道",
+      "id": "media-ado-official-youtube",
+      "aliases": [
+        "Ado Official YouTube"
+      ],
+      "sourceUrls": []
+    },
+    {
+      "title": "Road to Ao — Special Premiere",
+      "category": "现场 / 特别影像",
+      "year": "2026",
+      "image": "assets/live/expo-2025.jpg",
+      "description": "围绕「Ado STADIUM LIVE 2026 Ao」推出的四周官方 YouTube 特别首映企划，适合与 Live 年表互相跳转。",
+      "url": "https://www.universal-music.co.jp/ado/news/2026-06-06/",
+      "status": "官方企划 / 已归档",
+      "id": "media-road-to-ao-special-premiere",
+      "aliases": [
+        "Road to Ao — Special Premiere"
+      ],
+      "sourceUrls": []
+    },
+    {
+      "title": "Ado profile / 秘密基地档案",
+      "category": "官方频道",
+      "year": "2022—",
+      "image": "assets/ado-album_kyogen-official.jpg",
+      "description": "秘密基地 landing page 中的 Ado profile 与站内内容说明；当前页面提示部分档案暂停更新，因此不把它当作实时履历。",
+      "url": "https://ado-dokidokihimitsukichi-daigakuimo.com/public_html/landing_page.html",
+      "status": "会员站档案 / 更新状态待观察",
+      "id": "media-ado-profile-秘密基地档案",
+      "aliases": [
+        "Ado profile / 秘密基地档案"
+      ],
+      "sourceUrls": []
+    }
+  ],
+  "collabs": [
+    {
+      "title": "ウタの歌 ONE PIECE FILM RED",
+      "partner": "ONE PIECE FILM RED / 歌姫ウタ",
+      "category": "动画 / 电影",
+      "year": "2022",
+      "image": "assets/covers/11.png",
+      "relationType": "电影音乐 / 角色演唱",
+      "role": "以角色 UTA 的名义演唱电影中的多首歌曲",
+      "partnerRole": "电影制作方负责角色、剧情与原声企划",
+      "work": "《ウタの歌 ONE PIECE FILM RED》原声专辑与剧中歌曲",
+      "timeline": "2022 · 电影上映、原声专辑发行",
+      "description": "这是一项电影角色歌唱合作，不是 Ado 个人原创专辑的别名。Ado 为 UTA 演唱了《新時代》《逆光》《世界のつづき》等剧中曲，相关歌曲另行归入电影原声档案。",
+      "officialUrl": "https://www.universal-music.co.jp/ado/discography/tyct-60190/",
+      "sources": [
+        "https://www.universal-music.co.jp/ado/uta-no-uta/en/"
+      ],
+      "status": "已整理",
+      "id": "collab-ウタの歌-one-piece-film-red",
+      "aliases": [
+        "ウタの歌 ONE PIECE FILM RED",
+        "ONE PIECE FILM RED / 歌姫ウタ"
+      ],
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/uta-no-uta/en/"
+      ]
+    },
+    {
+      "title": "电影「ブルーロック」主题曲「モンストロ」",
+      "partner": "BLUE LOCK / 电影制作团队",
+      "category": "动画 / 电影",
+      "year": "2026",
+      "image": "assets/collabs/bluelock-monstro.jpg",
+      "relationType": "电影主题曲合作",
+      "role": "演唱真人电影《蓝色监狱》主题曲「モンストロ」",
+      "partnerRole": "电影制作团队负责作品与宣传企划",
+      "work": "电影主题曲《モンストロ》及相关宣传影像",
+      "timeline": "2026 · 电影上映前后公开主题曲资料",
+      "description": "合作核心是电影主题曲，而不是联名商品。Ado 负责演唱「モンストロ」，电影项目负责世界观、影像和宣发；歌曲在音乐库中以主题曲与数字发行两层资料标记。页面还保留了电影宣传图，方便把歌曲、作品和合作方放在同一个档案里复核。",
+      "officialUrl": "https://bluelock-movie.jp/",
+      "sources": [
+        "https://bluelock-movie.jp/"
+      ],
+      "status": "已核对",
+      "id": "collab-电影-ブルーロック-主题曲-モンストロ",
+      "aliases": [
+        "电影「ブルーロック」主题曲「モンストロ」",
+        "BLUE LOCK / 电影制作团队"
+      ],
+      "sourceUrls": [
+        "https://bluelock-movie.jp/"
+      ]
+    },
+    {
+      "title": "adidas × Ado「綺羅」",
+      "partner": "adidas / サッカー日本代表",
+      "category": "体育 / 球队",
+      "year": "2026",
+      "image": "assets/collabs/adidas-kira.jpeg",
+      "relationType": "体育品牌 / 球衣与主题曲合作",
+      "role": "参与日本足球代表队合作视觉，并演唱合作曲「綺羅」",
+      "partnerRole": "adidas 与日本足球代表队提供品牌、球衣和赛事语境",
+      "work": "「綺羅」与日本代表队球衣合作视觉",
+      "timeline": "2026 · 日本代表队相关合作企划公开",
+      "description": "这里的合作关系同时包含音乐和体育视觉两部分：Ado 的歌曲「綺羅」被用于企划表达，adidas 与日本足球代表队承担品牌和球衣语境。歌曲封面与联名档案使用不同素材，避免把合作曲误当普通单曲。",
+      "officialUrl": "https://www.universal-music.co.jp/ado/news/2026-04-09/",
+      "sources": [
+        "https://www.universal-music.co.jp/ado/news/2026-04-09/"
+      ],
+      "status": "已核对",
+      "id": "collab-adidas-ado-綺羅",
+      "aliases": [
+        "adidas × Ado「綺羅」",
+        "adidas / サッカー日本代表"
+      ],
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/news/2026-04-09/"
+      ]
+    },
+    {
+      "title": "Ado × Georgia「わたしに花束」",
+      "partner": "日本コカ・コーラ「ジョージア」",
+      "category": "食品 / 咖啡",
+      "year": "2025",
+      "image": "assets/collabs/georgia-hanataba.jpg",
+      "relationType": "品牌大使 / 广告音乐合作",
+      "role": "参与 Georgia 品牌企划，并演唱合作曲「わたしに花束」",
+      "partnerRole": "Georgia 负责品牌广告、产品传播和商业企划",
+      "work": "广告音乐、品牌视觉与「わたしに花束」公开发行",
+      "timeline": "2025 · Georgia 合作广告与歌曲陆续公开",
+      "description": "这条记录把广告合作和歌曲发行放在同一档案里，但不把它写成个人专辑。Ado 的参与点是演唱与品牌视觉表达，Georgia 的参与点是广告制作、产品传播和活动落地。",
+      "officialUrl": "https://www.coca-cola.com/jp/ja/media-center/news-20250218-00",
+      "sources": [
+        "https://www.coca-cola.com/jp/ja/media-center/news-20250218-00"
+      ],
+      "status": "已核对",
+      "id": "collab-ado-georgia-わたしに花束",
+      "aliases": [
+        "Ado × Georgia「わたしに花束」",
+        "日本コカ・コーラ「ジョージア」"
+      ],
+      "sourceUrls": [
+        "https://www.coca-cola.com/jp/ja/media-center/news-20250218-00"
+      ]
+    },
+    {
+      "title": "Ado × BANDAI",
+      "partner": "BANDAI",
+      "category": "品牌合作",
+      "year": "2023",
+      "image": "assets/ado-official_02_bandai-ado.jpg",
+      "relationType": "商品与品牌企划",
+      "role": "参与合作视觉或商品宣传，具体批次仍待逐项核对",
+      "partnerRole": "BANDAI 负责商品开发、渠道与发售企划",
+      "work": "联名商品 / 宣传素材（具体批次待核实）",
+      "timeline": "2023 · 现有本地宣传图可确认合作素材",
+      "description": "目前能确认的是 BANDAI 相关合作视觉与商品资料，不足以把所有周边都归为同一个产品系列。页面保留合作关系和本地素材，商品名称、发售批次与地区范围等待可靠页面补全。",
+      "officialUrl": "",
+      "sources": [],
+      "status": "部分核实",
+      "id": "collab-ado-bandai",
+      "aliases": [
+        "Ado × BANDAI",
+        "BANDAI"
+      ],
+      "sourceUrls": []
+    },
+    {
+      "title": "Ado × Sanrio",
+      "partner": "Sanrio",
+      "category": "IP 合作",
+      "year": "2024",
+      "image": "assets/adoro-sanrio-main.jpg",
+      "relationType": "角色 IP 联名",
+      "role": "参与 Ado 与 Sanrio 角色共同出现的视觉和企划内容",
+      "partnerRole": "Sanrio 提供角色 IP、视觉规范及商品化合作框架",
+      "work": "联名角色视觉、宣传图与周边企划（项目集合）",
+      "timeline": "2024 · 联名视觉与相关商品资料陆续出现",
+      "description": "本条将 Sanrio 合作合并为一个关系档案，不再把同一只角色的不同宣传图拆成多条。可以确认的是角色共同视觉和企划方向；具体商品、发售日期和每张图对应的批次，页面不作未经核实的延伸。",
+      "officialUrl": "",
+      "sources": [],
+      "status": "资料展示 / 批次待核实",
+      "id": "collab-ado-sanrio",
+      "aliases": [
+        "Ado × Sanrio",
+        "Sanrio"
+      ],
+      "sourceUrls": []
+    },
+    {
+      "title": "Ado × 初音ミク「桜日和とタイムマシン」",
+      "partner": "初音ミク / まふまふ",
+      "category": "音乐合作",
+      "year": "2024",
+      "image": "assets/collabs/miku-sakura.jpg",
+      "relationType": "共同演唱 / 创作者合作",
+      "role": "与初音ミク共同构成歌曲演唱与视觉叙事",
+      "partnerRole": "初音ミク作为虚拟歌声参与；まふまふ负责歌曲提供",
+      "work": "单曲《桜日和とタイムマシン with 初音ミク》",
+      "timeline": "2024 · 首张 CD 单曲相关发行",
+      "description": "这是一首明确的音乐合作曲：Ado 与初音ミク共同出现在歌曲标题与作品设定中，まふまふ提供歌曲。曲目、单曲封面与联名档案相互关联，但不把初音ミク写成 Ado 的品牌合作方。",
+      "officialUrl": "https://ado-shop.com/ja/products/tyct39263",
+      "sources": [
+        "https://sp.universal-music.co.jp/ado/1stcdsingle/"
+      ],
+      "status": "已核对",
+      "id": "collab-ado-初音ミク-桜日和とタイムマシン",
+      "aliases": [
+        "Ado × 初音ミク「桜日和とタイムマシン」",
+        "初音ミク / まふまふ"
+      ],
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/1stcdsingle/"
+      ]
+    },
+    {
+      "title": "Ado × Phantom Siita",
+      "partner": "Phantom Siita",
+      "category": "音乐合作",
+      "year": "2024",
+      "image": "assets/ado-official_01_phantom-siita.jpg",
+      "relationType": "音乐企划 / 关联视觉",
+      "role": "存在公开合作素材，但具体演唱或制作分工待核实",
+      "partnerRole": "Phantom Siita 的参与方式和项目角色待核实",
+      "work": "合作视觉与音乐企划档案（名称待核实）",
+      "timeline": "2024 · 本地宣传素材可见相关企划",
+      "description": "这条档案保留，是因为本地官方发行素材中出现了 Phantom Siita 相关合作视觉；但目前不足以确认完整曲名、演唱分工和发行形式。详情明确写出待核实范围，不把推测当成合作事实。",
+      "officialUrl": "",
+      "sources": [],
+      "status": "待核实",
+      "id": "collab-ado-phantom-siita",
+      "aliases": [
+        "Ado × Phantom Siita",
+        "Phantom Siita"
+      ],
+      "sourceUrls": []
+    },
+    {
+      "title": "Ado × Marubeni「ロックスター」",
+      "partner": "丸紅株式会社",
+      "category": "商业企划",
+      "year": "2025",
+      "image": "assets/collabs/marubeni-rockstar.jpg",
+      "relationType": "企业广告 / 新曲合作",
+      "role": "在丸紅企业广告「LIVE篇」中以现场演出形式参与，并公开「ロックスター」",
+      "partnerRole": "丸紅负责企业品牌传播与广告制作",
+      "work": "广告「LIVE篇」、合作曲《ロックスター》及宣传视觉",
+      "timeline": "2025 · 企业广告与歌曲陆续公开",
+      "description": "这项合作同时有广告和音乐两个产物。Ado 的参与方式是广告演出与歌曲演唱，丸紅承担企业传播和广告企划；歌曲在音乐页以独立数字发行记录保存，联名页则说明它与商业企划的关系。",
+      "officialUrl": "https://www.universal-music.co.jp/ado/news/2025-02-13/",
+      "sources": [
+        "https://www.universal-music.co.jp/ado/news/2025-02-13/"
+      ],
+      "status": "已核对",
+      "id": "collab-ado-marubeni-ロックスター",
+      "aliases": [
+        "Ado × Marubeni「ロックスター」",
+        "丸紅株式会社"
+      ],
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/news/2025-02-13/"
+      ]
+    },
+    {
+      "title": "Ado × HARE「躍動」",
+      "partner": "ファッションブランド HARE",
+      "category": "品牌合作",
+      "year": "2023",
+      "image": "assets/collabs/hare-fashion.jpg",
+      "relationType": "时装品牌 / 视觉合作",
+      "role": "参与以「躍動」为主题的品牌企划与宣传视觉",
+      "partnerRole": "HARE 负责服装系列、品牌传播与商品呈现",
+      "work": "「躍動」合作视觉、服装企划与宣传素材",
+      "timeline": "2023 · HARE 合作企划公开",
+      "description": "HARE 合作更接近品牌视觉与服装企划，不等同于一首普通发行曲。Ado 的角色是合作形象与企划表达，HARE 负责服装、商品与传播落地；页面将歌曲或视觉名称和合作关系分开记录。",
+      "officialUrl": "https://www.universal-music.co.jp/ado/news/2023-11-17/",
+      "sources": [
+        "https://www.universal-music.co.jp/ado/news/2023-11-17/"
+      ],
+      "status": "已核对",
+      "id": "collab-ado-hare-躍動",
+      "aliases": [
+        "Ado × HARE「躍動」",
+        "ファッションブランド HARE"
+      ],
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/news/2023-11-17/"
+      ]
+    }
+  ],
+  "knowledge": [
+    {
+      "id": "profile-birth",
+      "aliases": [
+        "出生日期",
+        "生日",
+        "出生地",
+        "什么时候出生"
+      ],
+      "reply": "公开官方资料记载，Ado 于 2002 年 10 月 24 日出生于东京。这里的回答只引用公开履历，不延伸到私人生活。",
+      "source": "https://sp.universal-music.co.jp/ado/kyogen/about/",
+      "status": "official",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/kyogen/about/"
+      ]
+    },
+    {
+      "id": "profile-debut",
+      "aliases": [
+        "正式出道",
+        "出道时间",
+        "什么时候出道",
+        "出道曲",
+        "メジャーデビュー",
+        "何时出道",
+        "Ado何时出道",
+        "何时正式出道"
+      ],
+      "reply": "Ado 于 2020 年以《うっせぇわ》正式出道。那首歌把声音推到台前，也让她从网络歌い手走进主流发行。",
+      "source": "https://www.universal-music.co.jp/ado/biography/",
+      "status": "official",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/biography/"
+      ]
+    },
+    {
+      "id": "profile-utaite",
+      "aliases": [
+        "唱见时期",
+        "网络翻唱时期",
+        "歌い手时期",
+        "utaite",
+        "为什么开始唱歌"
+      ],
+      "reply": "官方特设资料把 Ado 的早期路径放在 Vocaloid 与 utaite 文化里：先用自己的声音翻唱，再走向原创与正式发行。",
+      "source": "https://sp.universal-music.co.jp/ado/uta-no-uta/en/",
+      "status": "official",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/uta-no-uta/en/"
+      ]
+    },
+    {
+      "id": "profile-vocaloid",
+      "aliases": [
+        "Vocaloid",
+        "初音未来影响",
+        "音乐启蒙",
+        "受谁影响"
+      ],
+      "reply": "官方英文特设页提到，Ado 很早接触 Vocaloid，并在 utaite 文化中受到启发。初音未来更像一扇门：先让她遇见创作，再让她用真人声音回应。",
+      "source": "https://sp.universal-music.co.jp/ado/uta-no-uta/en/",
+      "status": "official",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/uta-no-uta/en/"
+      ]
+    },
+    {
+      "id": "profile-label",
+      "aliases": [
+        "唱片公司",
+        "所属唱片公司",
+        "label",
+        "Capitol Records"
+      ],
+      "reply": "Universal Music Japan 的 Ado 官方资料页将唱片公司标为 Capitol Records，音乐类型标为邦乐。",
+      "source": "https://www.universal-music.co.jp/ado/biography/",
+      "status": "official",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/biography/"
+      ]
+    },
+    {
+      "id": "official-channels",
+      "aliases": [
+        "官方YouTube",
+        "官方频道",
+        "官方账号",
+        "官方 X",
+        "Ado官方社交账号"
+      ],
+      "reply": "官方资料页列出的公开入口包括 Ado Official YouTube、官方 X、TikTok 与 LINE。具体账号和链接应以 Universal Music Japan 的官方页面为准。",
+      "source": "https://www.universal-music.co.jp/ado/biography/",
+      "status": "official",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/biography/"
+      ]
+    },
+    {
+      "id": "album-kyogen-release",
+      "aliases": [
+        "狂言发行日期",
+        "狂言什么时候发行",
+        "狂言首张专辑",
+        "第一张专辑"
+      ],
+      "reply": "《狂言》是 Ado 的首张原创专辑，官方特设页标注发行日为 2022 年 1 月 26 日。曲目详情可以回到音乐页逐首查看。",
+      "source": "https://sp.universal-music.co.jp/ado/kyogen/",
+      "status": "official",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/kyogen/"
+      ]
+    },
+    {
+      "id": "album-uta-release",
+      "aliases": [
+        "ウタの歌发行",
+        "乌塔的歌",
+        "ONE PIECE FILM RED专辑",
+        "电影歌曲专辑"
+      ],
+      "reply": "《ウタの歌 ONE PIECE FILM RED》收录 Ado 为电影角色 UTA 演唱的主题歌和剧中歌，是独立于《狂言》的电影音乐专辑。",
+      "source": "https://sp.universal-music.co.jp/ado/uta-no-uta/en/",
+      "status": "official",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/uta-no-uta/en/"
+      ]
+    },
+    {
+      "id": "album-zanmu-release",
+      "aliases": [
+        "残夢发行日期",
+        "残夢什么时候发行",
+        "第二张专辑",
+        "残梦发行"
+      ],
+      "reply": "《残夢》是 Ado 的第二张原创专辑，官方五周年年表标注发行日为 2024 年 7 月 10 日。",
+      "source": "https://sp.universal-music.co.jp/ado/5thanniversary/",
+      "status": "official",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/5thanniversary/"
+      ]
+    },
+    {
+      "id": "album-best-release",
+      "aliases": [
+        "Adoのベストアドバム",
+        "最佳专辑",
+        "首张精选",
+        "best album"
+      ],
+      "reply": "《Adoのベストアドバム》是 Ado 的首张精选专辑，官方五周年页面标注于 2025 年 4 月 9 日发行。",
+      "source": "https://sp.universal-music.co.jp/ado/5thanniversary/",
+      "status": "official",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/5thanniversary/"
+      ]
+    },
+    {
+      "id": "album-songs-uta",
+      "aliases": [
+        "ウタ的歌有哪些歌",
+        "电影歌单",
+        "UTA歌曲",
+        "FILM RED歌单"
+      ],
+      "reply": "《ウタの歌 ONE PIECE FILM RED》相关曲目包括《新時代》《私は最強》《逆光》《ウタカタララバイ》《Tot Musica》《世界のつづき》《風のゆくえ》等。具体原作与制作字段以歌曲详情为准。",
+      "source": "https://sp.universal-music.co.jp/ado/uta-no-uta/en/",
+      "status": "official",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/uta-no-uta/en/"
+      ]
+    },
+    {
+      "id": "song-magic",
+      "aliases": [
+        "MAGIC",
+        "MAGIC是谁写的",
+        "MAGIC创作者",
+        "MAGIC是什么歌"
+      ],
+      "reply": "官方五周年页面介绍，《MAGIC》是 Ado 与ボカロP ツミキ的首次合作，由ツミキ创作，走的是带有复古感的舞曲方向。",
+      "source": "https://sp.universal-music.co.jp/ado/5thanniversary/",
+      "status": "official",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/5thanniversary/"
+      ]
+    },
+    {
+      "id": "song-odorupompoko",
+      "aliases": [
+        "おどるポンポコリン是什么",
+        "樱桃小丸子主题曲",
+        "小丸子主题曲"
+      ],
+      "reply": "Ado 演唱了《おどるポンポコリン》的新版，作为《ちびまる子ちゃん》的开场主题曲。官方页面说明编曲由ヒャダイン负责。",
+      "source": "https://sp.universal-music.co.jp/ado/5thanniversary/",
+      "status": "official",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/5thanniversary/"
+      ]
+    },
+    {
+      "id": "song-kaze-story",
+      "aliases": [
+        "風と私の物語创作者",
+        "风与我的故事",
+        "沈黙の艦隊主题曲"
+      ],
+      "reply": "《風と私の物語》由宮本浩次作词作曲，まふまふ编曲，是电影《沈黙の艦隊 北極海大海戦》的相关主题曲。",
+      "source": "https://sp.universal-music.co.jp/ado/5thanniversary/",
+      "status": "official",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/5thanniversary/"
+      ]
+    },
+    {
+      "id": "song-cats-eye",
+      "aliases": [
+        "CAT'S EYE",
+        "Cats Eye",
+        "キャッツアイ",
+        "猫眼主题曲"
+      ],
+      "reply": "Ado 参与演唱了 2025 年新版动画《キャッツ♥アイ》的主题曲《CAT'S EYE》；官方页面注明原曲歌唱者为杏里。",
+      "source": "https://sp.universal-music.co.jp/ado/5thanniversary/",
+      "status": "official",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/5thanniversary/"
+      ]
+    },
+    {
+      "id": "song-stay-gold",
+      "aliases": [
+        "Stay Gold",
+        "Jax Jones合作",
+        "Beyblade X片尾曲",
+        "陀螺战士片尾曲"
+      ],
+      "reply": "《Stay Gold》是 Jax Jones × Ado 的合作曲，也是动画《BEYBLADE X》新系列的片尾曲。",
+      "source": "https://sp.universal-music.co.jp/ado/5thanniversary/",
+      "status": "official",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/5thanniversary/"
+      ]
+    },
+    {
+      "id": "song-gegege",
+      "aliases": [
+        "ゲゲゲの鬼太郎",
+        "鬼太郎主题曲",
+        "鬼太郎歌曲"
+      ],
+      "reply": "Ado 演唱了《ゲゲゲの鬼太郎 私の愛した歴代ゲゲゲ》的开场主题曲。官方说明这次合作也与她从小喜欢鬼太郎有关。",
+      "source": "https://sp.universal-music.co.jp/ado/5thanniversary/",
+      "status": "official",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/5thanniversary/"
+      ]
+    },
+    {
+      "id": "song-hanataba",
+      "aliases": [
+        "わたしに花束创作者",
+        "Georgia广告歌",
+        "咖啡广告歌曲"
+      ],
+      "reply": "《わたしに花束》是 Georgia 的广告歌曲，由 HoneyWorks 为 Ado 创作，主题是给一天的开始一点向前走的力气。",
+      "source": "https://sp.universal-music.co.jp/ado/5thanniversary/",
+      "status": "official",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/5thanniversary/"
+      ]
+    },
+    {
+      "id": "song-sakura-miku",
+      "aliases": [
+        "桜日和とタイムマシン",
+        "樱日和与时间机器",
+        "初音未来合作曲",
+        "初音ミク合作曲"
+      ],
+      "reply": "《桜日和とタイムマシン with 初音ミク》是 Ado 与初音ミク的合作曲，官方五周年年表将其列为 2024 年 10 月 24 日发行的 CD 单曲收录曲。",
+      "source": "https://sp.universal-music.co.jp/ado/5thanniversary/",
+      "status": "official",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/5thanniversary/"
+      ]
+    },
+    {
+      "id": "live-wish",
+      "aliases": [
+        "Wish世界巡演",
+        "Ado Wish巡演",
+        "第一次世界巡演",
+        "Wish全14场"
+      ],
+      "reply": "Ado THE FIRST WORLD TOUR “Wish” 在 2024 年 2 月至 4 月举行，共 14 场，是她的首次世界巡演。",
+      "source": "https://sp.universal-music.co.jp/ado/5thanniversary/",
+      "status": "official",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/5thanniversary/"
+      ]
+    },
+    {
+      "id": "live-shinzou",
+      "aliases": [
+        "心臓演唱会",
+        "心臓多少人",
+        "国立竞技场Ado",
+        "心脏Live"
+      ],
+      "reply": "Ado SPECIAL LIVE 2024《心臓》于 2024 年 4 月 27 日、28 日在东京国立竞技场举行，两天合计动员 14 万人。",
+      "source": "https://sp.universal-music.co.jp/ado/5thanniversary/",
+      "status": "official",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/5thanniversary/"
+      ]
+    },
+    {
+      "id": "live-monalisa",
+      "aliases": [
+        "モナ・リザの横顔多少场",
+        "蒙娜丽莎的侧脸",
+        "Mona Lisa巡演",
+        "横顔巡演"
+      ],
+      "reply": "Ado JAPAN TOUR 2024《モナ・リザの横顔》从大阪大阪城 Hall 开始，到神奈川 K Arena 横滨结束，共 9 个城市、18 场公演。官方公布的时间范围是 2024 年 7 月 14 日至 10 月 13 日。",
+      "source": "https://www.universal-music.co.jp/ado/news/2024-04-27/",
+      "status": "official",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/news/2024-04-27/"
+      ]
+    },
+    {
+      "id": "live-hibana",
+      "aliases": [
+        "Hibana多少城市",
+        "Hibana巡演",
+        "第二次世界巡演",
+        "Hibana 50万人"
+      ],
+      "reply": "Ado WORLD TOUR 2025《Hibana》覆盖 33 个城市，官方资料称动员超过 50 万人。相关 Live 影像收录了埼玉超级竞技场和美国奥兰多 Kia Center 的演出。",
+      "source": "https://www.universal-music.co.jp/ado/news/2026-01-23/",
+      "status": "official",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/news/2026-01-23/"
+      ]
+    },
+    {
+      "id": "live-yodaka",
+      "aliases": [
+        "よだか巨蛋",
+        "夜鹰巡演",
+        "东京巨蛋",
+        "东京巨蛋Ado",
+        "京瓷巨蛋Ado"
+      ],
+      "reply": "2025 年的《よだか》是 Ado 的首次东阪巨蛋巡演，东京巨蛋和京瓷巨蛋大阪各举行 2 天。",
+      "source": "https://sp.universal-music.co.jp/ado/5thanniversary/",
+      "status": "official",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/5thanniversary/"
+      ]
+    },
+    {
+      "id": "live-ao",
+      "aliases": [
+        "Ao日产体育场",
+        "Ao Stadium",
+        "日产体育场Ado",
+        "Ao 2026"
+      ],
+      "reply": "官方资料显示，Ado 将于 2026 年 7 月在日产体育场举行《Ao》公演。具体场次和现场信息以官方公告为准。",
+      "source": "https://www.universal-music.co.jp/ado/biography/",
+      "status": "official",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/biography/"
+      ]
+    },
+    {
+      "id": "live-himitsukichi",
+      "aliases": [
+        "秘密基地会员Live",
+        "代代木第一体育馆Ado",
+        "秘密基地有料会员LIVE",
+        "2026年10月Ado Live"
+      ],
+      "reply": "官方新闻已公布会员限定 Live：2026 年 10 月 24 日、25 日在东京国立代代木竞技场第一体育馆举行，标题当时标为待定。",
+      "source": "https://www.universal-music.co.jp/ado/news/2026-07-03-3/",
+      "status": "official",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/news/2026-07-03-3/"
+      ]
+    },
+    {
+      "id": "anniversary-history",
+      "aliases": [
+        "Ado发展史",
+        "Ado经历",
+        "五周年年表",
+        "Ado历史",
+        "Ado什么时候开始"
+      ],
+      "reply": "官方五周年年表把几个节点串在一起：2020 年《うっせぇわ》出道，2022 年发行《狂言》并参与《ONE PIECE FILM RED》，2024 年举行 Wish 与《心臓》，2025 年发行首张精选并举办 Hibana。",
+      "source": "https://sp.universal-music.co.jp/ado/5thanniversary/",
+      "status": "official",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/5thanniversary/"
+      ]
+    },
+    {
+      "id": "novel-adroid",
+      "aliases": [
+        "アドロイド",
+        "Ado小说",
+        "Ado前世小说",
+        "11010231224214427"
+      ],
+      "reply": "官方五周年年表记录，小说《アドロイド 11010231224214427》于 2024 年 4 月 19 日发行。它是以 Ado 的“前世”为题材的平行世界小说，不等同于现实私人传记。",
+      "source": "https://sp.universal-music.co.jp/ado/5thanniversary/",
+      "status": "official",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/5thanniversary/"
+      ]
+    },
+    {
+      "id": "privacy-boundary",
+      "aliases": [
+        "本名是什么",
+        "住在哪里",
+        "私人信息",
+        "恋爱经历",
+        "真实身份细节"
+      ],
+      "reply": "这类私人信息不在资料范围内。我可以回答公开发行、创作者、Live、合作和影像记录，不把传闻当履历。",
+      "source": "local-policy",
+      "status": "boundary",
+      "sourceUrls": [
+        "local-policy"
+      ]
+    },
+    {
+      "id": "history-2020",
+      "aliases": [
+        "2020年Ado",
+        "2020年经历",
+        "うっせぇわ什么时候发行",
+        "出道日是哪天"
+      ],
+      "reply": "官方五周年年表记载：2020 年 10 月 15 日公布主流出道，10 月 23 日以《うっせぇわ》正式出道。",
+      "source": "https://sp.universal-music.co.jp/ado/5thanniversary/",
+      "status": "official",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/5thanniversary/"
+      ]
+    },
+    {
+      "id": "history-2021",
+      "aliases": [
+        "2021年Ado",
+        "うっせぇわ一亿",
+        "Ado拿过什么奖",
+        "夜のピエロ什么时候用作主题曲"
+      ],
+      "reply": "官方年表记录，2021 年《うっせぇわ》登上 Billboard JAPAN HOT 100 第一位，MV 达到 1 亿播放；《夜のピエロ》与《会いたくて》也分别参与了影视联动。",
+      "source": "https://sp.universal-music.co.jp/ado/5thanniversary/",
+      "status": "official",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/5thanniversary/"
+      ]
+    },
+    {
+      "id": "history-2022",
+      "aliases": [
+        "2022年Ado",
+        "Ado第一次Live",
+        "Ado秘密基地什么时候成立",
+        "Geffen Records"
+      ],
+      "reply": "2022 年，Ado 发行《狂言》，在 Zepp DiverCity 举行首次单独 Live《喜劇》，开设官方会员站，并在 8 月举行埼玉超级竞技场的《カムパネルラ》。同年还与 Geffen Records 建立合作关系。",
+      "source": "https://sp.universal-music.co.jp/ado/5thanniversary/",
+      "status": "official",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/5thanniversary/"
+      ]
+    },
+    {
+      "id": "history-2023",
+      "aliases": [
+        "2023年Ado",
+        "Ado全夜日本",
+        "Ado广播节目",
+        "什么时候开始主持广播",
+        "オールナイトニッポン",
+        "マーズ多少场",
+        "歌ってみた专辑发行"
+      ],
+      "reply": "2023 年，Ado 开始主持《Ado のオールナイトニッポン》，举行全国 11 城 14 场的《マーズ》，发行《Adoの歌ってみたアルバム》，并首次登上 NHK 红白歌合战。",
+      "source": "https://sp.universal-music.co.jp/ado/5thanniversary/",
+      "status": "official",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/5thanniversary/"
+      ]
+    },
+    {
+      "id": "release-2026-好きでいて",
+      "aliases": [
+        "好きでいて",
+        "喜欢着你Ado",
+        "2026年9月Ado新歌"
+      ],
+      "reply": "Universal Music Japan 官方发行页列出《好きでいて》为 2026 年 9 月 7 日发行的数字配信作品。",
+      "source": "https://www.universal-music.co.jp/ado/discography/",
+      "status": "official",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ]
+    },
+    {
+      "id": "release-2026-monstro",
+      "aliases": [
+        "モンストロ",
+        "モンストロ发行",
+        "Monstro什么时候发行",
+        "蓝色监狱主题曲",
+        "蓝色监狱主题曲发行"
+      ],
+      "reply": "Universal Music Japan 官方发行页列出《モンストロ》于 2026 年 8 月 7 日数字发行；它与真人电影《蓝色监狱》主题曲企划相关。",
+      "source": "https://www.universal-music.co.jp/ado/discography/",
+      "status": "official",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ]
+    },
+    {
+      "id": "release-2026-live-digital",
+      "aliases": [
+        "Live影像什么时候发行",
+        "Ado现场影像数字发行",
+        "2026年7月31日Ado"
+      ],
+      "reply": "官方发行页列出多场 Live 影像的数字发行项目，包括《喜劇》《カムパネルラ》《マーズ》《Wish》《モナ・リザの横顔》《心臓》和《Hibana》，发行日为 2026 年 7 月 31 日。",
+      "source": "https://www.universal-music.co.jp/ado/discography/",
+      "status": "official",
+      "sourceUrls": [
+        "https://www.universal-music.co.jp/ado/discography/"
+      ]
+    },
+    {
+      "id": "live-expo-2025",
+      "aliases": [
+        "大阪万博Ado",
+        "关西万博特别Live",
+        "万博开幕Live"
+      ],
+      "reply": "官方五周年年表记载，Ado 于 2025 年 4 月 13 日举行大阪・关西万博开幕纪念特别 Live。",
+      "source": "https://sp.universal-music.co.jp/ado/5thanniversary/",
+      "status": "official",
+      "sourceUrls": [
+        "https://sp.universal-music.co.jp/ado/5thanniversary/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Digital singles archive cover</title>
+  <desc id="desc">Abstract blue archive artwork for digital singles without a confirmed individual cover.</desc>
+  <defs>
+    <radialGradient id="bg" cx="68%" cy="28%" r="90%">
+      <stop offset="0" stop-color="#496ee0"/>
+      <stop offset=".42" stop-color="#161f52"/>
+      <stop offset="1" stop-color="#050914"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#b8d4ff" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#4d73ff" stop-opacity=".1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="1000" fill="url(#bg)"/>
+  <g fill="none" stroke="url(#line)" stroke-width="2" opacity=".5">
+    <circle cx="720" cy="300" r="230"/><circle cx="720" cy="300" r="180"/><circle cx="720" cy="300" r="130"/>
+    <path d="M50 760C230 520 350 860 520 590s310-80 430-300"/>
+    <path d="M-20 880C220 650 330 980 560 710s330-70 480-260"/>
+  </g>
+  <g transform="translate(145 175) rotate(-12 250 260)" fill="none" stroke="#dbe8ff" stroke-linecap="round">
+    <path d="M250 90c-100 0-170 72-170 150 0 72 63 128 170 128s170-56 170-128c0-78-70-150-170-150Z" stroke-width="18" opacity=".8"/>
+    <path d="M250 115c-75 0-126 50-126 104 0 53 51 92 126 92s126-39 126-92c0-54-51-104-126-104Z" stroke-width="8" opacity=".72"/>
+    <path d="M250 368v300M250 665c-46 22-82 54-106 101M250 665c46 22 82 54 106 101" stroke-width="12" opacity=".62"/>
+  </g>
+  <text x="72" y="850" fill="#dbe8ff" font-family="Arial, sans-serif" font-size="30" letter-spacing="8">DIGITAL SINGLES</text>
+  <text x="72" y="900" fill="#8bb8ff" font-family="Arial, sans-serif" font-size="14" letter-spacing="5">ARCHIVE IMAGE · COVER PENDING</text>
+</svg>
